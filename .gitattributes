@@ -1,0 +1,7 @@
+# Source fingerprints describe exact bytes. Do not normalize captures or JSON.
+* -text whitespace=cr-at-eol
+# Whitespace is part of these retrieved source bytes. Capture hashes validate it.
+content/posting/captures/* -whitespace
+content/posting/live.md -whitespace
+content/posting/saved.md -whitespace
+content/posting/reprint.md -whitespace

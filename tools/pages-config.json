@@ -1,0 +1,4 @@
+{
+  "build_type": "legacy",
+  "source": { "branch": "main", "path": "/docs" }
+}

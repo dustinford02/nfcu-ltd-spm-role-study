@@ -1,0 +1,1017 @@
+{
+  "schema_version": "1.0",
+  "drills": [
+    {
+      "id": "drill-01",
+      "class": "prep_drill",
+      "title": "Recall the four named talent programs",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-01.md",
+      "inferred_from": null,
+      "type": "recall",
+      "timebox": 3,
+      "topic_ids": [
+        "talent-performance-systems"
+      ],
+      "file": "drill-01.md",
+      "prompt": "Without opening the source, name the four talent programs explicitly named in the overview. Reopen it and identify one enterprise outcome it names.",
+      "self_check": "Check each term against the source. Do not invent Talent Philosophy or Leadership Model content.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-01-excerpt-1",
+          "class": "posting",
+          "title": "Job Description / role overview",
+          "text": "Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Job Description / role overview",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-02",
+      "class": "prep_drill",
+      "title": "Sketch a reference performance cycle",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-02.md",
+      "inferred_from": null,
+      "type": "define-a-term",
+      "timebox": 3,
+      "topic_ids": [
+        "performance-cycle-calibration"
+      ],
+      "file": "drill-02.md",
+      "prompt": "Explain a general performance cycle in plain language. Label it as a reference model, then name one employer-specific detail still missing.",
+      "self_check": "Separate a general model from the actual employer calendar and approval process.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-02-excerpt-1",
+          "class": "posting",
+          "title": "Job Description / role overview",
+          "text": "Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Job Description / role overview",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-03",
+      "class": "prep_drill",
+      "title": "Explain calibration without inventing policy",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-03.md",
+      "inferred_from": null,
+      "type": "define-a-term",
+      "timebox": 3,
+      "topic_ids": [
+        "performance-cycle-calibration"
+      ],
+      "file": "drill-03.md",
+      "prompt": "Give a two-sentence explanation of calibration. Name two things required before describing this employer's process.",
+      "self_check": "Do not assert forced distribution, a particular rating scale, or this role's approval authority.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-03-excerpt-1",
+          "class": "posting",
+          "title": "Job Description / role overview",
+          "text": "Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Job Description / role overview",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-04",
+      "class": "prep_drill",
+      "title": "Keep overview and duties separate",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-04.md",
+      "inferred_from": null,
+      "type": "recall",
+      "timebox": 3,
+      "topic_ids": [
+        "overview-vs-duties-tension"
+      ],
+      "file": "drill-04.md",
+      "prompt": "Recall one talent-specific phrase from the overview and one delivery responsibility from the duty list. Explain why both deserve study.",
+      "self_check": "Point to two distinct source sections; do not replace either with an inferred job description.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-04-excerpt-1",
+          "class": "posting",
+          "title": "Job Description / role overview",
+          "text": "Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Job Description / role overview",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-04-excerpt-2",
+          "class": "posting",
+          "title": "Responsibilities / 1",
+          "text": "Lead cross-functional programs that support strategic initiatives, operational improvements, and business transformation",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 1",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-05",
+      "class": "prep_drill",
+      "title": "Turn a duty into an artifact",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-05.md",
+      "inferred_from": null,
+      "type": "decide-in-a-scenario",
+      "timebox": 10,
+      "topic_ids": [
+        "program-execution-governance"
+      ],
+      "file": "drill-05.md",
+      "prompt": "In a hypothetical cycle rollout, training, data preparation, and manager communications have different owners. Sketch the minimum shared plan needed to expose dependencies.",
+      "self_check": "Include milestones, owners, entry criteria, dependencies, and escalation triggers. Mark invented dates and roles hypothetical.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-05-excerpt-1",
+          "class": "posting",
+          "title": "Responsibilities / 2",
+          "text": "Develop and maintain integrated program plans, schedules, and resource allocations aligned with defined business goals",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 2",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-05-excerpt-2",
+          "class": "posting",
+          "title": "Responsibilities / 5",
+          "text": "Identify and address program risks, issues, and interdependencies across teams and functions",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 5",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-06",
+      "class": "prep_drill",
+      "title": "Prepare a decision-focused update",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-06.md",
+      "inferred_from": null,
+      "type": "decide-in-a-scenario",
+      "timebox": 10,
+      "topic_ids": [
+        "program-execution-governance"
+      ],
+      "file": "drill-06.md",
+      "prompt": "A hypothetical program is on schedule, but a critical decision has no owner. Give a 90-second senior update that makes the decision and consequences clear.",
+      "self_check": "Include status evidence, decision needed, options, an owner to confirm, and a date to agree; avoid activity counts without implications.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-06-excerpt-1",
+          "class": "posting",
+          "title": "Responsibilities / 7",
+          "text": "Deliver program updates and performance insights to senior stakeholders and governance forums",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 7",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-06-excerpt-2",
+          "class": "posting",
+          "title": "Responsibilities / 4",
+          "text": "Apply program governance practices, tools, and reporting standards to monitor progress and ensure accountability",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 4",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-07",
+      "class": "prep_drill",
+      "title": "Risk, issue, or dependency?",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-07.md",
+      "inferred_from": null,
+      "type": "define-a-term",
+      "timebox": 3,
+      "topic_ids": [
+        "program-execution-governance"
+      ],
+      "file": "drill-07.md",
+      "prompt": "Classify three hypothetical statements: access might arrive late; access is overdue; training cannot begin until access works. Explain how the response differs.",
+      "self_check": "Keep uncertain risk, current issue, and sequencing dependency distinct. Allow a fact to link to multiple management records.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-07-excerpt-1",
+          "class": "posting",
+          "title": "Responsibilities / 5",
+          "text": "Identify and address program risks, issues, and interdependencies across teams and functions",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 5",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-08",
+      "class": "prep_drill",
+      "title": "Map authority before assigning it",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-08.md",
+      "inferred_from": null,
+      "type": "decide-in-a-scenario",
+      "timebox": 10,
+      "topic_ids": [
+        "program-execution-governance",
+        "open-questions"
+      ],
+      "file": "drill-08.md",
+      "prompt": "Sketch a provisional responsibility map for HR, finance, operations, technology, and the program manager. Mark every assignment needing employer confirmation.",
+      "self_check": "This is a proposed map, not an org chart. Identify who must validate actual decision rights.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-08-excerpt-1",
+          "class": "posting",
+          "title": "Responsibilities / 13",
+          "text": "Collaborate with enabling functions (e.g., finance, HR, operations) to support program execution and business readiness",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 13",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-08-excerpt-2",
+          "class": "posting",
+          "title": "Responsibilities / 9",
+          "text": "Ensure compliance with internal controls, policies, and governance standards",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 9",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-09",
+      "class": "prep_drill",
+      "title": "Compare investment options",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-09.md",
+      "inferred_from": null,
+      "type": "decide-in-a-scenario",
+      "timebox": 25,
+      "topic_ids": [
+        "investment-business-case-outcomes"
+      ],
+      "file": "drill-09.md",
+      "prompt": "A hypothetical sponsor can improve manager guidance, automate reminders, or redesign reporting. Compare options using assumptions, costs, benefits, risks, and adoption effort.",
+      "self_check": "Invent no employer budget. Identify needed data, sensitivity to assumptions, and a recommendation conditional on that data.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-09-excerpt-1",
+          "class": "posting",
+          "title": "Responsibilities / 8",
+          "text": "Contribute to business case development and investment planning through data analysis and scenario modeling",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 8",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-09-excerpt-2",
+          "class": "posting",
+          "title": "Qualifications / 6",
+          "text": "Advanced skills in program budgeting, resource planning, and risk mitigation across multiple workstreams",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 6",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-10",
+      "class": "prep_drill",
+      "title": "Outputs, outcomes, and benefits",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-10.md",
+      "inferred_from": null,
+      "type": "define-a-term",
+      "timebox": 10,
+      "topic_ids": [
+        "investment-business-case-outcomes"
+      ],
+      "file": "drill-10.md",
+      "prompt": "For a hypothetical manager-support program, propose one deliverable, one behavior change, and one organizational benefit. Explain evidence that distinguishes them.",
+      "self_check": "State population, baseline, period, and attribution limits; a completed launch is not automatically an achieved workforce outcome.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-10-excerpt-1",
+          "class": "posting",
+          "title": "Qualifications / 5",
+          "text": "Proven ability to align program execution with organizational goals, manage stakeholder expectations, and drive measurable outcomes",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 5",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-11",
+      "class": "prep_drill",
+      "title": "Build a balanced metric pair",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-11.md",
+      "inferred_from": null,
+      "type": "decide-in-a-scenario",
+      "timebox": 10,
+      "topic_ids": [
+        "investment-business-case-outcomes",
+        "performance-cycle-calibration"
+      ],
+      "file": "drill-11.md",
+      "prompt": "Design one early indicator and one later outcome for a hypothetical cycle improvement. Define numerator, denominator, data owner, and reporting cadence.",
+      "self_check": "Do not present these as NFCU metrics. Explain how the pair could mislead and what cross-check would help.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-11-excerpt-1",
+          "class": "posting",
+          "title": "Responsibilities / 3",
+          "text": "Collaborate with business stakeholders to ensure program alignment with organizational priorities and success metrics",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 3",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-11-excerpt-2",
+          "class": "posting",
+          "title": "Qualifications / 5",
+          "text": "Proven ability to align program execution with organizational goals, manage stakeholder expectations, and drive measurable outcomes",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 5",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-12",
+      "class": "prep_drill",
+      "title": "Audit a claim of success",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-12.md",
+      "inferred_from": null,
+      "type": "decide-in-a-scenario",
+      "timebox": 25,
+      "topic_ids": [
+        "investment-business-case-outcomes",
+        "change-adoption-mentoring"
+      ],
+      "file": "drill-12.md",
+      "prompt": "A hypothetical report says all managers completed training, so the change succeeded. Identify missing evidence and design a proportionate follow-up evaluation.",
+      "self_check": "Separate attendance, understanding, actual use, proficiency, and sustained results. State what evidence would change the conclusion.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-12-excerpt-1",
+          "class": "posting",
+          "title": "Qualifications / 5",
+          "text": "Proven ability to align program execution with organizational goals, manage stakeholder expectations, and drive measurable outcomes",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 5",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-12-excerpt-2",
+          "class": "posting",
+          "title": "Qualifications / 8",
+          "text": "Expert knowledge of change management and stakeholder engagement strategies to support adoption and sustainment",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 8",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-13",
+      "class": "prep_drill",
+      "title": "Recall adoption dimensions",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-13.md",
+      "inferred_from": null,
+      "type": "recall",
+      "timebox": 3,
+      "topic_ids": [
+        "change-adoption-mentoring"
+      ],
+      "file": "drill-13.md",
+      "prompt": "Name three different questions that measure adoption. Give one hypothetical example showing why attendance alone cannot answer them all.",
+      "self_check": "Review speed, breadth of use, and proficiency as industry concepts, not an NFCU framework.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-13-excerpt-1",
+          "class": "posting",
+          "title": "Qualifications / 8",
+          "text": "Expert knowledge of change management and stakeholder engagement strategies to support adoption and sustainment",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 8",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-14",
+      "class": "prep_drill",
+      "title": "Diagnose before adding training",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-14.md",
+      "inferred_from": null,
+      "type": "decide-in-a-scenario",
+      "timebox": 10,
+      "topic_ids": [
+        "change-adoption-mentoring"
+      ],
+      "file": "drill-14.md",
+      "prompt": "Managers in a hypothetical rollout miss a new check-in step. Decide what to learn before prescribing another course.",
+      "self_check": "Consider awareness, incentives, access, workflow, skill, manager support, and workload as hypotheses to investigate.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-14-excerpt-1",
+          "class": "posting",
+          "title": "Responsibilities / 10",
+          "text": "Promote continuous improvement and change readiness within program teams",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 10",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-14-excerpt-2",
+          "class": "posting",
+          "title": "Qualifications / 8",
+          "text": "Expert knowledge of change management and stakeholder engagement strategies to support adoption and sustainment",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 8",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-15",
+      "class": "prep_drill",
+      "title": "Mentor a lead through a dependency",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-15.md",
+      "inferred_from": null,
+      "type": "decide-in-a-scenario",
+      "timebox": 10,
+      "topic_ids": [
+        "change-adoption-mentoring",
+        "program-execution-governance"
+      ],
+      "file": "drill-15.md",
+      "prompt": "A hypothetical team lead escalates every dependency as an emergency. Conduct a short coaching exchange that develops judgment instead of taking over decisions.",
+      "self_check": "Ask for impact and evidence, agree escalation criteria, let the lead choose a next action, and define a reflection point.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-15-excerpt-1",
+          "class": "posting",
+          "title": "Responsibilities / 11",
+          "text": "Mentor program managers and team leads to build delivery capability and leadership skills",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 11",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-15-excerpt-2",
+          "class": "posting",
+          "title": "Responsibilities / 5",
+          "text": "Identify and address program risks, issues, and interdependencies across teams and functions",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 5",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-16",
+      "class": "prep_drill",
+      "title": "Classify the named tools",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-16.md",
+      "inferred_from": null,
+      "type": "recall",
+      "timebox": 3,
+      "topic_ids": [
+        "qualifications-methods-tools"
+      ],
+      "file": "drill-16.md",
+      "prompt": "Recall the analytics/reporting examples and desired tool familiarity. Identify one publicly associated platform not named in the target posting.",
+      "self_check": "Use the source sections. Keep named tools separate from Oracle customer context and adjacent roles.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-16-excerpt-1",
+          "class": "posting",
+          "title": "Qualifications / 9",
+          "text": "Advanced skill in using program analytics and reporting tools (e.g., Power BI, Tableau, Smartsheet) to monitor performance and inform leadership",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 9",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-16-excerpt-2",
+          "class": "posting",
+          "title": "Desired Qualifications / 4",
+          "text": "Proficiency with MS Office; familiarity with tools (e.g., Smartsheet, MS Project, Jira) preferred.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Desired Qualifications / 4",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-17",
+      "class": "prep_drill",
+      "title": "Choose a delivery approach conditionally",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-17.md",
+      "inferred_from": null,
+      "type": "decide-in-a-scenario",
+      "timebox": 25,
+      "topic_ids": [
+        "qualifications-methods-tools",
+        "program-execution-governance"
+      ],
+      "file": "drill-17.md",
+      "prompt": "A hypothetical annual cycle has a fixed date but uncertain reporting requirements. Propose a delivery approach and identify work suited to iteration versus explicit sequencing.",
+      "self_check": "Justify choices from constraints. Do not assume SAFe adoption, release trains, or a prescribed NFCU methodology.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-17-excerpt-1",
+          "class": "posting",
+          "title": "Qualifications / 3",
+          "text": "Advanced knowledge and understanding of program management methodologies (e.g., Agile, SAFe, Waterfall), with the ability to lead multi-team initiatives and adapt delivery models to business needs",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 3",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-17-excerpt-2",
+          "class": "posting",
+          "title": "Responsibilities / 2",
+          "text": "Develop and maintain integrated program plans, schedules, and resource allocations aligned with defined business goals",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 2",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-18",
+      "class": "prep_drill",
+      "title": "Read qualification levels precisely",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-18.md",
+      "inferred_from": null,
+      "type": "recall",
+      "timebox": 10,
+      "topic_ids": [
+        "qualifications-methods-tools"
+      ],
+      "file": "drill-18.md",
+      "prompt": "Create columns for experience requirements, knowledge/skill expectations, and desired qualifications. Place each sampled phrase correctly.",
+      "self_check": "Preserve five-plus versus two-plus years, equivalency wording, and desired status. Flag conflicting degree metadata without guessing its resolution.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-18-excerpt-1",
+          "class": "posting",
+          "title": "Qualifications / 1",
+          "text": "5+ years of relevant program management experience, managing programs in a cross-functional environment ",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 1",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-18-excerpt-2",
+          "class": "posting",
+          "title": "Qualifications / 2",
+          "text": "2+ years of experience leading multi-phase, cross-functional programs ",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 2",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-18-excerpt-3",
+          "class": "posting",
+          "title": "Qualifications / 10",
+          "text": "Bachelor’s degree in Business Administration, Program Management, Organizational Development, or related field, or equivalent combination of training, education, and experience",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 10",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-18-excerpt-4",
+          "class": "posting",
+          "title": "Desired Qualifications / 2",
+          "text": "Professional Certifications (e.g.,PMP, PgMP, or Lean/Agile certification)",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Desired Qualifications / 2",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-18-excerpt-5",
+          "class": "posting",
+          "title": "Desired Qualifications / 4",
+          "text": "Proficiency with MS Office; familiarity with tools (e.g., Smartsheet, MS Project, Jira) preferred.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Desired Qualifications / 4",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-19",
+      "class": "prep_drill",
+      "title": "Bound the Oracle customer story",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-19.md",
+      "inferred_from": null,
+      "type": "name-what-is-still-unknown",
+      "timebox": 3,
+      "topic_ids": [
+        "public-employer-context",
+        "open-questions"
+      ],
+      "file": "drill-19.md",
+      "prompt": "Explain what the Oracle story establishes as vendor-reported context. Name three conclusions it cannot establish about this requisition.",
+      "self_check": "Do not infer ownership, privileges, implementation assignments, or hiring-manager identity from the story.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-19-excerpt-1",
+          "class": "posting",
+          "title": "Job Description / role overview",
+          "text": "Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Job Description / role overview",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-19-excerpt-2",
+          "class": "posting",
+          "title": "Qualifications / 9",
+          "text": "Advanced skill in using program analytics and reporting tools (e.g., Power BI, Tableau, Smartsheet) to monitor performance and inform leadership",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 9",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-20",
+      "class": "prep_drill",
+      "title": "Interpret a vendor metric carefully",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-20.md",
+      "inferred_from": null,
+      "type": "decide-in-a-scenario",
+      "timebox": 10,
+      "topic_ids": [
+        "public-employer-context",
+        "investment-business-case-outcomes"
+      ],
+      "file": "drill-20.md",
+      "prompt": "Oracle reports growth in goals and goal participation. Explain what further evidence would be needed to conclude workforce performance improved.",
+      "self_check": "Preserve vendor attribution. Distinguish activity volume, coverage, quality, and outcomes; request period and measurement design.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-20-excerpt-1",
+          "class": "posting",
+          "title": "Qualifications / 5",
+          "text": "Proven ability to align program execution with organizational goals, manage stakeholder expectations, and drive measurable outcomes",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 5",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-21",
+      "class": "prep_drill",
+      "title": "Prioritize high-value unknowns",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-21.md",
+      "inferred_from": null,
+      "type": "name-what-is-still-unknown",
+      "timebox": 10,
+      "topic_ids": [
+        "open-questions",
+        "overview-vs-duties-tension"
+      ],
+      "file": "drill-21.md",
+      "prompt": "Choose five unresolved questions and rank them by how much they change understanding of the work. For each, identify a plausible authoritative source.",
+      "self_check": "Keep Talent Philosophy, Leadership Model, calibration rules, scope, and reporting authority open until established.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-21-excerpt-1",
+          "class": "posting",
+          "title": "Job Description / role overview",
+          "text": "Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Job Description / role overview",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-21-excerpt-2",
+          "class": "posting",
+          "title": "Responsibilities / 4",
+          "text": "Apply program governance practices, tools, and reporting standards to monitor progress and ensure accountability",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 4",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-22",
+      "class": "prep_drill",
+      "title": "Run a hypothetical readiness review",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-22.md",
+      "inferred_from": null,
+      "type": "decide-in-a-scenario",
+      "timebox": 25,
+      "topic_ids": [
+        "performance-cycle-calibration",
+        "program-execution-governance",
+        "change-adoption-mentoring"
+      ],
+      "file": "drill-22.md",
+      "prompt": "Design a readiness review for a hypothetical cycle launch covering policy sign-off, access, data, communications, manager capability, support, and exceptions.",
+      "self_check": "Label it a proposal. Include evidence per gate, owners to confirm, and a response when evidence is incomplete.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-22-excerpt-1",
+          "class": "posting",
+          "title": "Job Description / role overview",
+          "text": "Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Job Description / role overview",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-22-excerpt-2",
+          "class": "posting",
+          "title": "Responsibilities / 9",
+          "text": "Ensure compliance with internal controls, policies, and governance standards",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 9",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-22-excerpt-3",
+          "class": "posting",
+          "title": "Responsibilities / 10",
+          "text": "Promote continuous improvement and change readiness within program teams",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 10",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-23",
+      "class": "prep_drill",
+      "title": "Design a discovery workshop",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-23.md",
+      "inferred_from": null,
+      "type": "decide-in-a-scenario",
+      "timebox": 25,
+      "topic_ids": [
+        "overview-vs-duties-tension",
+        "open-questions",
+        "investment-business-case-outcomes"
+      ],
+      "file": "drill-23.md",
+      "prompt": "Plan a hypothetical workshop to understand a talent-program portfolio. Produce an agenda, needed inputs, decision questions, and outputs.",
+      "self_check": "Invent no current problems. Separate verified scope, stakeholder hypotheses, success measures, constraints, and unresolved decisions.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-23-excerpt-1",
+          "class": "posting",
+          "title": "Job Description / role overview",
+          "text": "Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Job Description / role overview",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-23-excerpt-2",
+          "class": "posting",
+          "title": "Responsibilities / 3",
+          "text": "Collaborate with business stakeholders to ensure program alignment with organizational priorities and success metrics",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 3",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-23-excerpt-3",
+          "class": "posting",
+          "title": "Responsibilities / 13",
+          "text": "Collaborate with enabling functions (e.g., finance, HR, operations) to support program execution and business readiness",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 13",
+          "inferred_from": null
+        }
+      ]
+    },
+    {
+      "id": "drill-24",
+      "class": "prep_drill",
+      "title": "Reconstruct the role from sources",
+      "source_url": null,
+      "source_note": "Original practice; embedded quotations explicitly retain posting classification.",
+      "retrieved_date": "2026-09-27",
+      "locator": "content/drills/drill-24.md",
+      "inferred_from": null,
+      "type": "name-what-is-still-unknown",
+      "timebox": 25,
+      "topic_ids": [
+        "talent-performance-systems",
+        "qualifications-methods-tools",
+        "public-employer-context",
+        "open-questions"
+      ],
+      "file": "drill-24.md",
+      "prompt": "Create a one-page map of purpose, delivery duties, qualifications, and unknowns. Attach one source locator to every factual statement.",
+      "self_check": "Check against the current official posting. Label general practice and inference; keep adjacent-role requirements outside this role.",
+      "motivating_excerpts": [
+        {
+          "id": "drill-24-excerpt-1",
+          "class": "posting",
+          "title": "Job Description / role overview",
+          "text": "Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Job Description / role overview",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-24-excerpt-2",
+          "class": "posting",
+          "title": "Qualifications / 3",
+          "text": "Advanced knowledge and understanding of program management methodologies (e.g., Agile, SAFe, Waterfall), with the ability to lead multi-team initiatives and adapt delivery models to business needs",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 3",
+          "inferred_from": null
+        },
+        {
+          "id": "drill-24-excerpt-3",
+          "class": "posting",
+          "title": "About Us / Disclaimers",
+          "text": "Navy Federal reserves the right to fill this role at a higher/lower grade level based on business need. An assessment may be required to compete for this position. Job postings are subject to close early or extend out longer than the anticipated closing date at the hiring team's discretion based on qualified applicant volume. Navy Federal Credit Union assesses market data to establish salary ranges that enable us to remain competitive. You are paid within the salary range, based on your experience, location and market position. For additional details regarding compensation and benefits, review the Benefits page of the Navy Federal Career Site.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "About Us / Disclaimers",
+          "inferred_from": null
+        }
+      ]
+    }
+  ]
+}

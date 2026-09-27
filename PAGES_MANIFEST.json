@@ -1,0 +1,38 @@
+{
+  "source": "app/",
+  "destination": "docs/",
+  "files": [
+    {
+      "path": "app.js",
+      "sha256": "16e57cbe4421491feb5f0faa38143d8ff81bf56f4ea6930ba4b1eff365ca67cb"
+    },
+    {
+      "path": "data/content.json",
+      "sha256": "cc155b9b9894e0c1203f0f1ba3784b23e44c2dd6dc4e31095aa5674bc40eae9c"
+    },
+    {
+      "path": "data/content.sha256",
+      "sha256": "ff747b76fb9ddf15dcb23d78f91c8c16a8889ed75a87569d5c01aad8ab22f4bf"
+    },
+    {
+      "path": "icon.svg",
+      "sha256": "b544406b2b2e2b02ed3617e72c8171a49922dad203ce8cd970fda8d022a61321"
+    },
+    {
+      "path": "index.html",
+      "sha256": "f4bb9f7dad6fb20e34004a17df087ae72cd71d864dd5c2a362b6426eb3df8fa8"
+    },
+    {
+      "path": "manifest.json",
+      "sha256": "8965fd78185b6b2c7fceec085c72fa4d71403f866d39437ef7c06f1e4237ab46"
+    },
+    {
+      "path": "service-worker.js",
+      "sha256": "1c1bd7db45480dd3f0ae4d488c93f5faa27c94af8f5459ba9390f1481f2a754e"
+    },
+    {
+      "path": "styles.css",
+      "sha256": "76a8119d6926d4775c1d751075a565bd142aef923a306e2b024afba342a7d760"
+    }
+  ]
+}

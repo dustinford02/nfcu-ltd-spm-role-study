@@ -1,0 +1,35 @@
+{
+  "captured_date": "2026-09-27",
+  "captures": [
+    {
+      "id": "official",
+      "file": "content/posting/captures/official.txt",
+      "markdown": "content/posting/live.md",
+      "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+      "sha256": "fe5034a1e874429bd94cf6887182eaf0489678a9f81250fb04a2abfa6d126349",
+      "bytes": 10644,
+      "retrieved_at": "2026-09-27T22:24:52.420230+00:00",
+      "method": "rendered browser body"
+    },
+    {
+      "id": "reprint",
+      "file": "content/posting/captures/reprint.txt",
+      "markdown": "content/posting/reprint.md",
+      "source_url": "https://diversityjobs.com/career/18258701/Senior-Program-Manager-Learning-Talent-Development-Florida-Pensacola",
+      "sha256": "bd97c9b4cb654d8e6af0c3399b926aea7318f1b8ea5537ac51d7234a83151b74",
+      "bytes": 9267,
+      "retrieved_at": "2026-09-27T22:24:52.420230+00:00",
+      "method": "rendered browser body"
+    },
+    {
+      "id": "saved",
+      "file": "content/posting/captures/saved.txt",
+      "markdown": "content/posting/saved.md",
+      "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+      "sha256": "66a02bc4f11ebc901f4b9d9ed78ac8a04844722a6bfbd1a063e4899b5ba54a9e",
+      "bytes": 12769,
+      "retrieved_at": "2026-09-27T22:24:52.420230+00:00",
+      "method": "pypdf extraction; footer tracking query removed"
+    }
+  ]
+}

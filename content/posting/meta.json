@@ -1,0 +1,76 @@
+{
+  "id": "posting-meta",
+  "class": "workspace_meta",
+  "job_title": "Senior Program Manager (Learning & Talent Development)",
+  "employer": "Navy Federal Credit Union",
+  "official_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+  "reprint_url": "https://diversityjobs.com/career/18258701/Senior-Program-Manager-Learning-Talent-Development-Florida-Pensacola",
+  "retrieval_timestamps": {
+    "official": "2026-09-27T22:24:52.420230+00:00",
+    "reprint": "2026-09-27T22:24:52.420230+00:00",
+    "saved_pdf_extraction": "2026-09-27T22:24:52.420230+00:00"
+  },
+  "workspace_req": {
+    "id": "32372",
+    "class": "workspace_meta",
+    "confirmed_on_official_site": true,
+    "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+    "locator": "Job Info > Job Identification"
+  },
+  "salary": {
+    "class": "posting",
+    "minimum": 96900,
+    "maximum": 141600,
+    "currency": "USD",
+    "period": "annual",
+    "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+    "locator": "Job Info > Targeted Salary Range"
+  },
+  "locations": {
+    "class": "posting",
+    "value": [
+      "Vienna, VA",
+      "Pensacola, FL",
+      "Winchester, VA"
+    ],
+    "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+    "locator": "Additional Information > Location"
+  },
+  "work_mode": {
+    "class": "posting",
+    "value": "Hybrid",
+    "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+    "locator": "Job title location banner"
+  },
+  "schedule": {
+    "class": "posting",
+    "value": "Monday–Friday, 8:00AM–4:30PM; full time",
+    "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+    "locator": "Additional Information > Hours; Job Info > Job Schedule"
+  },
+  "posting_date": {
+    "class": "posting",
+    "value": "09/10/2026, 09:25 AM (displayed)",
+    "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+    "locator": "Job Info > Posting Date"
+  },
+  "apply_before": {
+    "class": "posting",
+    "value": "09/27/2026, 10:59 PM (displayed; timezone not established)",
+    "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+    "locator": "Job Info > Apply Before"
+  },
+  "sponsorship": {
+    "class": "posting",
+    "value": "No current or future sponsorship for this role; applicants must already be authorized to work in the United States.",
+    "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+    "locator": "Job Description opening paragraph"
+  },
+  "assessment_disclaimer": {
+    "class": "posting",
+    "value": "An assessment may be required; higher/lower grade and posting-date flexibility are reserved by the employer.",
+    "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+    "locator": "About Us > Disclaimers"
+  },
+  "source_status": "Retrieved live; role availability must be rechecked before applying."
+}

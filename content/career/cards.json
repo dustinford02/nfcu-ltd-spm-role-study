@@ -1,0 +1,460 @@
+{
+  "version": 1,
+  "publication_scope": "Selected career facts and practice prompts authorized for a public, no-sign-in app on 2026-09-27. Specific workspace disclosure holds remain excluded. Original source files stay private.",
+  "cards": [
+    {
+      "id": "career-01",
+      "class": "candidate_material",
+      "title": "Developing people at GovCIO",
+      "kind": "professional_experience",
+      "evidence_class": "USER_STATEMENT",
+      "source_label": "Dated candidate statement: GovCIO supervision and mentoring, September 20, 2026",
+      "source_locator": "decision_id=USR-20260920-06",
+      "guardrail": "Keep scope, four-person cohort, personal contribution, and attribution separate. Do not invent employer records.",
+      "practice_prompt": "Reconstruct one real coaching example: the need, your actions, the employee's actions, and the evidence of change.",
+      "follow_up": "Which parts of the result can you attribute directly to your support, and which belong to the employee?",
+      "topic_ids": [
+        "change-adoption-mentoring",
+        "program-execution-governance"
+      ],
+      "facts": [
+        {
+          "id": "career-fact-01",
+          "class": "candidate_fact",
+          "text": "I managed up to 24 direct reports.",
+          "source_id": "career-src-gov-people",
+          "evidence_class": "USER_STATEMENT",
+          "experience_kind": "professional_experience",
+          "period": "GovCIO management tenure; statement dated 2026-09-20",
+          "boundary": "Peak supervisory scope; not an average, FTE count, or number of functions.",
+          "retrieved_date": "2026-09-27"
+        },
+        {
+          "id": "career-fact-02",
+          "class": "candidate_fact",
+          "text": "Members of my team earned three separate master's degrees—one in Finance and two in Project Management—and another team member earned a PMP certification.",
+          "source_id": "career-src-gov-people",
+          "evidence_class": "USER_STATEMENT",
+          "experience_kind": "professional_experience",
+          "period": "GovCIO management tenure; statement dated 2026-09-20",
+          "boundary": "Four-person credential cohort remains separate from up to 24 reports. Does not establish sole causation or documentary verification.",
+          "retrieved_date": "2026-09-27"
+        }
+      ],
+      "notice": "This is not an official interview question.",
+      "disclosure_status": "PUBLIC_USER_AUTHORIZED"
+    },
+    {
+      "id": "career-02",
+      "class": "candidate_material",
+      "title": "NATTC mentorship scope",
+      "kind": "professional_experience",
+      "evidence_class": "USER_STATEMENT",
+      "source_label": "Dated candidate statement: NATTC mentorship, September 20, 2026",
+      "source_locator": "decision_id=USR-20260920-09",
+      "guardrail": "The attested number is scope. No achieved outcome is inferred by this card.",
+      "practice_prompt": "Recall one actual qualification or career-development conversation and explain what you personally did.",
+      "follow_up": "What outcome can you support without attaching an unrelated command total?",
+      "topic_ids": [
+        "change-adoption-mentoring",
+        "talent-performance-systems"
+      ],
+      "facts": [
+        {
+          "id": "career-fact-03",
+          "class": "candidate_fact",
+          "text": "As a Navy Chief I was responsible for the mentorship of approximately 52 Sailors.",
+          "source_id": "career-src-navy-mentoring",
+          "evidence_class": "USER_STATEMENT",
+          "experience_kind": "professional_experience",
+          "period": "NATTC Navy Chief tenure; statement dated 2026-09-20",
+          "boundary": "Navy mentorship population only; not GovCIO reports, not a claim of 52 direct reports.",
+          "retrieved_date": "2026-09-27"
+        }
+      ],
+      "notice": "This is not an official interview question.",
+      "disclosure_status": "PUBLIC_USER_AUTHORIZED"
+    },
+    {
+      "id": "career-03",
+      "class": "candidate_material",
+      "title": "Curriculum quality participation",
+      "kind": "professional_experience",
+      "evidence_class": "USER_STATEMENT",
+      "source_label": "Dated candidate edit: IT course participation, September 20, 2026",
+      "source_locator": "comments[0].research_result.user_attestation",
+      "guardrail": "No course completion rate, learning gain, or sole ownership is inferred.",
+      "practice_prompt": "Describe one actual curriculum review issue, the evidence you examined, and how you handled the review handoff.",
+      "follow_up": "What establishes your contribution and what remains team or period context?",
+      "topic_ids": [
+        "program-execution-governance"
+      ],
+      "facts": [
+        {
+          "id": "career-fact-04",
+          "class": "candidate_fact",
+          "text": "The candidate attested personal work across 3–5 Information Systems Technician courses.",
+          "source_id": "career-src-qa",
+          "evidence_class": "USER_STATEMENT",
+          "experience_kind": "professional_experience",
+          "period": "Instructional Systems Designer period described in September 20, 2026 review",
+          "boundary": "Personal course breadth is attested; other period/team work-event counts are not personal product counts.",
+          "retrieved_date": "2026-09-27"
+        }
+      ],
+      "notice": "This is not an official interview question.",
+      "disclosure_status": "PUBLIC_USER_AUTHORIZED"
+    },
+    {
+      "id": "career-04",
+      "class": "candidate_material",
+      "title": "PMP: from credential to judgment",
+      "kind": "credential",
+      "evidence_class": "ISSUER_RECORD_COPY",
+      "source_label": "PMI certificate copy: PMP award and printed dates",
+      "source_locator": "record_id=SWP-SUP-0007",
+      "guardrail": "PMP is not evidence of a PgMP, SAFe credential, or an employer outcome.",
+      "practice_prompt": "Choose a real program decision and explain how planning, risks, stakeholders, and benefits affected your choice.",
+      "follow_up": "Which decision is demonstrated by your actual experience rather than by holding a credential?",
+      "topic_ids": [
+        "qualifications-methods-tools",
+        "program-execution-governance"
+      ],
+      "facts": [
+        {
+          "id": "career-fact-05",
+          "class": "candidate_fact",
+          "text": "The PMI certificate records the award of Project Management Professional (PMP) to Dustin S. Ford on 21 August 2024, with printed expiration 21 August 2027.",
+          "source_id": "career-src-pmp",
+          "evidence_class": "ISSUER_RECORD_COPY",
+          "experience_kind": "credential",
+          "period": "Award 2024-08-21; printed expiration 2027-08-21",
+          "boundary": "Historical certificate fact; no live registry check or current-standing assertion.",
+          "retrieved_date": "2026-09-27"
+        }
+      ],
+      "notice": "This is not an official interview question.",
+      "disclosure_status": "PUBLIC_USER_AUTHORIZED"
+    },
+    {
+      "id": "career-05",
+      "class": "candidate_material",
+      "title": "HR education and talent-program thinking",
+      "kind": "education",
+      "evidence_class": "ISSUER_RECORD_COPY",
+      "source_label": "UWF digital credential copy: MBA with Human Resources Management Emphasis",
+      "source_locator": "record_id=SWP-SUP-0009",
+      "guardrail": "Education does not establish ownership of an enterprise HR performance cycle or calibration program.",
+      "practice_prompt": "Connect one idea you actually studied to a hypothetical performance-cycle program. Label the application as a proposal.",
+      "follow_up": "What would you need to learn about the employer's process before applying that idea?",
+      "topic_ids": [
+        "talent-performance-systems",
+        "performance-cycle-calibration"
+      ],
+      "facts": [
+        {
+          "id": "career-fact-06",
+          "class": "candidate_fact",
+          "text": "The University of West Florida conferred the Master of Business Administration with Human Resources Management Emphasis on Dustin Stephen Ford on 4 May 2024.",
+          "source_id": "career-src-mba",
+          "evidence_class": "ISSUER_RECORD_COPY",
+          "experience_kind": "education",
+          "period": "2024-05-04",
+          "boundary": "Credential copy; embedded signature was not independently validated. Degree is MBA with HRM emphasis.",
+          "retrieved_date": "2026-09-27"
+        }
+      ],
+      "notice": "This is not an official interview question.",
+      "disclosure_status": "PUBLIC_USER_AUTHORIZED"
+    },
+    {
+      "id": "career-06",
+      "class": "candidate_material",
+      "title": "Master Training Specialist foundation",
+      "kind": "credential",
+      "evidence_class": "ISSUER_RECORD_COPY",
+      "source_label": "NATTC designation copy: Master Training Specialist",
+      "source_locator": "record_id=SWP-SUP-0001",
+      "guardrail": "The designation supplies a foundation; the transfer or adoption example must come from an actual story or be labeled hypothetical.",
+      "practice_prompt": "Recall one instructional judgment you can substantiate, then explain how it would inform manager enablement.",
+      "follow_up": "How would you check whether learning transferred into workplace behavior?",
+      "topic_ids": [
+        "change-adoption-mentoring"
+      ],
+      "facts": [
+        {
+          "id": "career-fact-07",
+          "class": "candidate_fact",
+          "text": "NATTC Pensacola designated Dustin Ford a Master Training Specialist after he met the program requirements.",
+          "source_id": "career-src-mts",
+          "evidence_class": "ISSUER_RECORD_COPY",
+          "experience_kind": "credential",
+          "period": "Historical Navy designation; recorded in 2018",
+          "boundary": "Historical Navy designation, not a civilian professional license or institutional accreditation.",
+          "retrieved_date": "2026-09-27"
+        }
+      ],
+      "notice": "This is not an official interview question.",
+      "disclosure_status": "PUBLIC_USER_AUTHORIZED"
+    },
+    {
+      "id": "career-07",
+      "class": "candidate_material",
+      "title": "AI learning with an honest boundary",
+      "kind": "training",
+      "evidence_class": "ISSUER_RECORD_COPY",
+      "source_label": "ISPI completion certificate copy: AI4PI Journey",
+      "source_locator": "record_id=EDU-0001",
+      "guardrail": "A proposal remains a proposal. Do not turn training completion into production experience.",
+      "practice_prompt": "Explain one concept you personally learned and propose a low-risk way to evaluate an AI-supported learning workflow.",
+      "follow_up": "What evidence and privacy controls would you require before claiming an improvement?",
+      "topic_ids": [
+        "qualifications-methods-tools",
+        "investment-business-case-outcomes"
+      ],
+      "facts": [
+        {
+          "id": "career-fact-08",
+          "class": "candidate_fact",
+          "text": "An ISPI AI for Performance Improvement certificate records Dustin Ford's completion of the AI4PI Journey on March 31, 2026.",
+          "source_id": "career-src-ai4pi",
+          "evidence_class": "ISSUER_RECORD_COPY",
+          "experience_kind": "training",
+          "period": "2026-03-31",
+          "boundary": "Program completion only; no duration, assessed proficiency, AI engineering mastery, or workplace implementation is established.",
+          "retrieved_date": "2026-09-27"
+        }
+      ],
+      "notice": "This is not an official interview question.",
+      "disclosure_status": "PUBLIC_USER_AUTHORIZED"
+    },
+    {
+      "id": "career-08",
+      "class": "candidate_material",
+      "title": "Doctoral study as a learning foundation",
+      "kind": "education_in_progress",
+      "evidence_class": "ISSUER_RECORD_COPY",
+      "source_label": "August 2026 unofficial UWF transcript: doctoral coursework in progress",
+      "source_locator": "record_id=SWP-SUP-0010",
+      "guardrail": "Keep academic preparation, personal research, and professional outcomes distinct.",
+      "practice_prompt": "Describe a performance problem as a researchable question and identify what evidence would distinguish a training problem from another barrier.",
+      "follow_up": "Which part is knowledge from study, and which part have you demonstrated at work?",
+      "topic_ids": [
+        "qualifications-methods-tools",
+        "talent-performance-systems"
+      ],
+      "facts": [
+        {
+          "id": "career-fact-09",
+          "class": "candidate_fact",
+          "text": "The August 2026 unofficial UWF transcript records 36 doctoral credits earned through Summer 2026 in Instructional and Performance Technology, with Fall 2026 courses listed in progress and no awarded doctorate.",
+          "source_id": "career-src-doctoral",
+          "evidence_class": "ISSUER_RECORD_COPY",
+          "experience_kind": "education_in_progress",
+          "period": "August 2026 record; earned credits through Summer 2026",
+          "boundary": "Sanitized extract of the governed summary. Does not establish degree completion, candidacy, ABD, enrollment after that period, or completion date.",
+          "retrieved_date": "2026-09-27"
+        }
+      ],
+      "notice": "This is not an official interview question.",
+      "disclosure_status": "PUBLIC_USER_AUTHORIZED"
+    },
+    {
+      "id": "career-09",
+      "class": "candidate_material",
+      "title": "Operating BEAT: personal concept",
+      "kind": "personal_project",
+      "evidence_class": "USER_STATEMENT",
+      "source_label": "Dated candidate correction: Operating BEAT ownership and lifecycle, September 20, 2026",
+      "source_locator": "decision_id=USR-20260920-10",
+      "guardrail": "Never use this as an implemented-work STAR story. No internal framework content or source document is published.",
+      "practice_prompt": "If relevant, explain the concept as a personal design idea and propose what a future evaluation would need to test.",
+      "follow_up": "What evidence would be required before you could responsibly claim it worked?",
+      "topic_ids": [
+        "investment-business-case-outcomes"
+      ],
+      "facts": [
+        {
+          "id": "career-fact-10",
+          "class": "candidate_fact",
+          "text": "Operating BEAT is Dustin Ford's personally owned concept or framework. It is not GovCIO property and has never been actualized or piloted.",
+          "source_id": "career-src-beat",
+          "evidence_class": "USER_STATEMENT",
+          "experience_kind": "personal_project",
+          "period": "Correction dated 2026-09-20",
+          "boundary": "Ownership statement is user testimony, not legal proof. No application, implementation, deployment, testing, pilot, adoption, or realized result may be claimed.",
+          "retrieved_date": "2026-09-27"
+        }
+      ],
+      "notice": "This is not an official interview question.",
+      "disclosure_status": "PUBLIC_USER_AUTHORIZED"
+    },
+    {
+      "id": "career-10",
+      "class": "candidate_material",
+      "title": "Tool familiarity versus demonstrated depth",
+      "kind": "tools_self_report",
+      "evidence_class": "USER_STATEMENT",
+      "source_label": "Dated candidate tools list, September 20, 2026",
+      "source_locator": "decisions.tools_and_platforms",
+      "guardrail": "Do not claim advanced Power BI, Smartsheet, Tableau, Jira, SAFe, or enterprise platform administration solely because a tool appears in a list.",
+      "practice_prompt": "Select one named tool. State the task you personally performed, the output you created, and the decision it supported.",
+      "follow_up": "Which tools can you demonstrate today, and which require a practice exercise or current access check?",
+      "topic_ids": [
+        "qualifications-methods-tools"
+      ],
+      "facts": [
+        {
+          "id": "career-fact-tool-1",
+          "class": "candidate_fact",
+          "text": "Planning and Reporting: ServiceNow PPM/SPM | Microsoft Project | Monday.com",
+          "source_id": "career-src-tools",
+          "evidence_class": "USER_STATEMENT",
+          "experience_kind": "tools_self_report",
+          "period": "Tools list supplied 2026-09-20",
+          "boundary": "A named tool is not proof of proficiency depth, recent use, ownership, connector access, or an active paid subscription.",
+          "retrieved_date": "2026-09-27"
+        },
+        {
+          "id": "career-fact-tool-2",
+          "class": "candidate_fact",
+          "text": "Microsoft 365 Suite: Word | Excel | PowerPoint | Teams | SharePoint | Power BI | Copilot",
+          "source_id": "career-src-tools",
+          "evidence_class": "USER_STATEMENT",
+          "experience_kind": "tools_self_report",
+          "period": "Tools list supplied 2026-09-20",
+          "boundary": "A named tool is not proof of proficiency depth, recent use, ownership, connector access, or an active paid subscription.",
+          "retrieved_date": "2026-09-27"
+        },
+        {
+          "id": "career-fact-tool-3",
+          "class": "candidate_fact",
+          "text": "Instructional Design & eLearning Development: Navy AIM/LOM | Articulate 360 | HTML5/SCORM",
+          "source_id": "career-src-tools",
+          "evidence_class": "USER_STATEMENT",
+          "experience_kind": "tools_self_report",
+          "period": "Tools list supplied 2026-09-20",
+          "boundary": "A named tool is not proof of proficiency depth, recent use, ownership, connector access, or an active paid subscription.",
+          "retrieved_date": "2026-09-27"
+        },
+        {
+          "id": "career-fact-tool-4",
+          "class": "candidate_fact",
+          "text": "Document & PDF Tools: Adobe Acrobat Pro | Adobe Express",
+          "source_id": "career-src-tools",
+          "evidence_class": "USER_STATEMENT",
+          "experience_kind": "tools_self_report",
+          "period": "Tools list supplied 2026-09-20",
+          "boundary": "A named tool is not proof of proficiency depth, recent use, ownership, connector access, or an active paid subscription.",
+          "retrieved_date": "2026-09-27"
+        },
+        {
+          "id": "career-fact-tool-5",
+          "class": "candidate_fact",
+          "text": "AI/LLM Platforms: Claude | ChatGPT | Perplexity | Gemini | Grok | Copilot | Elicit | Cursor",
+          "source_id": "career-src-tools",
+          "evidence_class": "USER_STATEMENT",
+          "experience_kind": "tools_self_report",
+          "period": "Tools list supplied 2026-09-20",
+          "boundary": "A named tool is not proof of proficiency depth, recent use, ownership, connector access, or an active paid subscription.",
+          "retrieved_date": "2026-09-27"
+        },
+        {
+          "id": "career-fact-tool-6",
+          "class": "candidate_fact",
+          "text": "Productivity, Design & Collaboration: Airtable | GitHub | Scribe | Gemini Notebook (NotebookLM) | Canva | Gamma",
+          "source_id": "career-src-tools",
+          "evidence_class": "USER_STATEMENT",
+          "experience_kind": "tools_self_report",
+          "period": "Tools list supplied 2026-09-20",
+          "boundary": "A named tool is not proof of proficiency depth, recent use, ownership, connector access, or an active paid subscription.",
+          "retrieved_date": "2026-09-27"
+        }
+      ],
+      "notice": "This is not an official interview question.",
+      "disclosure_status": "PUBLIC_USER_AUTHORIZED"
+    }
+  ],
+  "sources": [
+    {
+      "id": "career-src-gov-people",
+      "label": "Dated candidate statement: GovCIO supervision and mentoring, September 20, 2026",
+      "evidence_class": "USER_STATEMENT",
+      "source_url": null,
+      "source_note": "Private evidence retained locally; sanitized fact fragments only. Source file is not published.",
+      "locator": "decision_id=USR-20260920-06"
+    },
+    {
+      "id": "career-src-navy-mentoring",
+      "label": "Dated candidate statement: NATTC mentorship, September 20, 2026",
+      "evidence_class": "USER_STATEMENT",
+      "source_url": null,
+      "source_note": "Private evidence retained locally; sanitized fact fragments only. Source file is not published.",
+      "locator": "decision_id=USR-20260920-09"
+    },
+    {
+      "id": "career-src-qa",
+      "label": "Dated candidate edit: IT course participation, September 20, 2026",
+      "evidence_class": "USER_STATEMENT",
+      "source_url": null,
+      "source_note": "Private evidence retained locally; sanitized fact fragments only. Source file is not published.",
+      "locator": "comments[0].research_result.user_attestation"
+    },
+    {
+      "id": "career-src-pmp",
+      "label": "PMI certificate copy: PMP award and printed dates",
+      "evidence_class": "ISSUER_RECORD_COPY",
+      "source_url": null,
+      "source_note": "Private evidence retained locally; sanitized fact fragments only. Source file is not published.",
+      "locator": "record_id=SWP-SUP-0007"
+    },
+    {
+      "id": "career-src-mba",
+      "label": "UWF digital credential copy: MBA with Human Resources Management Emphasis",
+      "evidence_class": "ISSUER_RECORD_COPY",
+      "source_url": null,
+      "source_note": "Private evidence retained locally; sanitized fact fragments only. Source file is not published.",
+      "locator": "record_id=SWP-SUP-0009"
+    },
+    {
+      "id": "career-src-mts",
+      "label": "NATTC designation copy: Master Training Specialist",
+      "evidence_class": "ISSUER_RECORD_COPY",
+      "source_url": null,
+      "source_note": "Private evidence retained locally; sanitized fact fragments only. Source file is not published.",
+      "locator": "record_id=SWP-SUP-0001"
+    },
+    {
+      "id": "career-src-ai4pi",
+      "label": "ISPI completion certificate copy: AI4PI Journey",
+      "evidence_class": "ISSUER_RECORD_COPY",
+      "source_url": null,
+      "source_note": "Private evidence retained locally; sanitized fact fragments only. Source file is not published.",
+      "locator": "record_id=EDU-0001"
+    },
+    {
+      "id": "career-src-doctoral",
+      "label": "August 2026 unofficial UWF transcript: doctoral coursework in progress",
+      "evidence_class": "ISSUER_RECORD_COPY",
+      "source_url": null,
+      "source_note": "Private evidence retained locally; sanitized fact fragments only. Source file is not published.",
+      "locator": "record_id=SWP-SUP-0010"
+    },
+    {
+      "id": "career-src-beat",
+      "label": "Dated candidate correction: Operating BEAT ownership and lifecycle, September 20, 2026",
+      "evidence_class": "USER_STATEMENT",
+      "source_url": null,
+      "source_note": "Private evidence retained locally; sanitized fact fragments only. Source file is not published.",
+      "locator": "decision_id=USR-20260920-10"
+    },
+    {
+      "id": "career-src-tools",
+      "label": "Dated candidate tools list, September 20, 2026",
+      "evidence_class": "USER_STATEMENT",
+      "source_url": null,
+      "source_note": "Private evidence retained locally; sanitized fact fragments only. Source file is not published.",
+      "locator": "decisions.tools_and_platforms"
+    }
+  ]
+}

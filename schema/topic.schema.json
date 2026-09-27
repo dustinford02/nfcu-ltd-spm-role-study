@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "posting_excerpts",
+    "must_know",
+    "study_notes",
+    "unknowns",
+    "drills"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "posting_excerpts": {
+      "type": "array",
+      "items": {
+        "$ref": "record.schema.json"
+      }
+    },
+    "must_know": {
+      "type": "array",
+      "items": {
+        "$ref": "record.schema.json"
+      }
+    },
+    "study_notes": {
+      "type": "array",
+      "items": {
+        "$ref": "record.schema.json"
+      }
+    },
+    "unknowns": {
+      "type": "array",
+      "items": {
+        "$ref": "record.schema.json"
+      }
+    },
+    "drills": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  }
+}

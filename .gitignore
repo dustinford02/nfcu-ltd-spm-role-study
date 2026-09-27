@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+private/
+recordings/
+personal-notes/
+*.pem
+*.key
+_browser-proof/

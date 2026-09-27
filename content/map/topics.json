@@ -1,0 +1,1546 @@
+{
+  "schema_version": "1.0",
+  "retrieved_date": "2026-09-27",
+  "topics": [
+    {
+      "id": "talent-performance-systems",
+      "title": "Talent and performance systems",
+      "posting_excerpts": [
+        {
+          "id": "post-overview",
+          "class": "posting",
+          "title": "Job Description / role overview",
+          "text": "Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Job Description / role overview",
+          "inferred_from": null
+        }
+      ],
+      "must_know": [
+        {
+          "id": "know-talent-scope",
+          "class": "posting",
+          "title": "Enterprise scope",
+          "text": "The overview connects enterprise talent and performance programs with organizational effectiveness, leadership capability, and workforce performance.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": null,
+          "retrieved_date": "2026-09-27",
+          "locator": "Job Description / role overview",
+          "inferred_from": null
+        }
+      ],
+      "study_notes": [
+        {
+          "id": "industry-system",
+          "class": "industry",
+          "title": "Performance management as a system",
+          "text": "Performance management connects expectations, feedback, development, evaluation, and recognition. It is more than an annual form.",
+          "source_url": "https://www.opm.gov/policy-data-oversight/performance-management/performance-management-cycle/",
+          "source_note": "General practice; not NFCU policy.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Linked primary-source guidance",
+          "inferred_from": null
+        },
+        {
+          "id": "infer-boundaries",
+          "class": "inference",
+          "title": "Separate system responsibilities",
+          "text": "Study process ownership, program coordination, data quality, and user support as separate responsibilities; the overview connects administration and delivery with enterprise outcomes.",
+          "source_url": null,
+          "source_note": "An implication to examine, not an employer statement.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Study interpretation",
+          "inferred_from": "post-overview"
+        }
+      ],
+      "unknowns": [
+        {
+          "id": "unknown-talent-philosophy",
+          "class": "unknown",
+          "title": "Talent Philosophy text",
+          "text": "The posting names the Talent Philosophy but supplies no principles, wording, approval owner, or operating guidance. Seek an employer-approved description before describing its content.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-leadership-model",
+          "class": "unknown",
+          "title": "Leadership Model text",
+          "text": "Competencies, behavior anchors, proficiency levels, and evaluation criteria for the named Leadership Model are not provided.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-system-of-record",
+          "class": "unknown",
+          "title": "System of record and access",
+          "text": "The target posting does not name a talent system of record, configured modules, access level, integrations, or ownership. Oracle customer context does not answer these role-specific questions.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-org-design",
+          "class": "unknown",
+          "title": "Org design and authority",
+          "text": "Reporting line, direct reports, team size, budget authority, decision rights, and relationships to HR business partners and technology teams are not stated.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        }
+      ],
+      "drills": [
+        "drill-01",
+        "drill-24"
+      ]
+    },
+    {
+      "id": "performance-cycle-calibration",
+      "title": "Performance cycle and calibration",
+      "posting_excerpts": [
+        {
+          "id": "post-overview",
+          "class": "posting",
+          "title": "Job Description / role overview",
+          "text": "Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Job Description / role overview",
+          "inferred_from": null
+        },
+        {
+          "id": "post-controls",
+          "class": "posting",
+          "title": "Responsibilities / 9",
+          "text": "Ensure compliance with internal controls, policies, and governance standards",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 9",
+          "inferred_from": null
+        }
+      ],
+      "must_know": [
+        {
+          "id": "know-cycle-programs",
+          "class": "posting",
+          "title": "Four named programs",
+          "text": "The overview names the full performance management cycle, performance calibration, the Talent Philosophy, and the Leadership Model.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": null,
+          "retrieved_date": "2026-09-27",
+          "locator": "Job Description / role overview",
+          "inferred_from": null
+        }
+      ],
+      "study_notes": [
+        {
+          "id": "industry-cycle",
+          "class": "industry",
+          "title": "A reference cycle",
+          "text": "OPM's public-sector model links planning, monitoring, developing, rating, and rewarding. Its federal rules are not transferred to this employer.",
+          "source_url": "https://www.opm.gov/policy-data-oversight/performance-management/performance-management-cycle/",
+          "source_note": "General practice; not NFCU policy.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Linked primary-source guidance",
+          "inferred_from": null
+        },
+        {
+          "id": "industry-calibration",
+          "class": "industry",
+          "title": "Calibration",
+          "text": "Calibration compares and discusses performance judgments to improve consistency. Oracle describes common agreement on ratings; actual process and authority depend on the organization.",
+          "source_url": "https://docs.oracle.com/en/cloud/saas/human-resources/faiwc/calibrated-performance-ratings-in-a-workforce-compensation-plan.html",
+          "source_note": "General practice; not NFCU policy.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Linked primary-source guidance",
+          "inferred_from": null
+        },
+        {
+          "id": "infer-cycle-metrics",
+          "class": "inference",
+          "title": "Timeliness versus effectiveness",
+          "text": "For study, separate cycle completion from conversation quality and workforce outcomes; completed forms alone would not demonstrate all named outcomes.",
+          "source_url": null,
+          "source_note": "An implication to examine, not an employer statement.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Study interpretation",
+          "inferred_from": "post-overview"
+        }
+      ],
+      "unknowns": [
+        {
+          "id": "unknown-calibration",
+          "class": "unknown",
+          "title": "Calibration owner and rubric",
+          "text": "Owner, participants, escalation path, evidence rules, rating scale, and distribution policy are not established. Do not assume forced distribution.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-cycle-ownership",
+          "class": "unknown",
+          "title": "Operate or program-manage the cycle",
+          "text": "The division between hands-on cycle administration, program coordination, policy ownership, and system administration is unspecified.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-success-baseline",
+          "class": "unknown",
+          "title": "Success measures and baseline",
+          "text": "No baseline, first-year targets, outcome definitions, data owners, or measurement periods are supplied.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-policy-controls",
+          "class": "unknown",
+          "title": "Applicable internal controls",
+          "text": "Required internal controls, retention rules, review gates, and access restrictions are not detailed.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        }
+      ],
+      "drills": [
+        "drill-02",
+        "drill-03",
+        "drill-11",
+        "drill-22"
+      ]
+    },
+    {
+      "id": "overview-vs-duties-tension",
+      "title": "Overview-vs-duties tension",
+      "posting_excerpts": [
+        {
+          "id": "post-overview",
+          "class": "posting",
+          "title": "Job Description / role overview",
+          "text": "Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Job Description / role overview",
+          "inferred_from": null
+        },
+        {
+          "id": "post-crossfunctional",
+          "class": "posting",
+          "title": "Responsibilities / 1",
+          "text": "Lead cross-functional programs that support strategic initiatives, operational improvements, and business transformation",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 1",
+          "inferred_from": null
+        },
+        {
+          "id": "post-investment",
+          "class": "posting",
+          "title": "Responsibilities / 8",
+          "text": "Contribute to business case development and investment planning through data analysis and scenario modeling",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 8",
+          "inferred_from": null
+        },
+        {
+          "id": "post-enabling",
+          "class": "posting",
+          "title": "Responsibilities / 13",
+          "text": "Collaborate with enabling functions (e.g., finance, HR, operations) to support program execution and business readiness",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 13",
+          "inferred_from": null
+        }
+      ],
+      "must_know": [
+        {
+          "id": "know-tension",
+          "class": "posting",
+          "title": "Separate source sections",
+          "text": "The overview names talent programs. The duties separately call for strategic initiatives, operational improvements, and business transformation.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": null,
+          "retrieved_date": "2026-09-27",
+          "locator": "Job Description / role overview; Responsibilities / 1",
+          "inferred_from": null
+        }
+      ],
+      "study_notes": [
+        {
+          "id": "infer-tension",
+          "class": "inference",
+          "title": "Read both layers",
+          "text": "The overview is specific to talent and performance management; the duties use broader enterprise program-management language. Connect the layers without assuming either replaces the other.",
+          "source_url": null,
+          "source_note": "An implication to examine, not an employer statement.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Study interpretation",
+          "inferred_from": "post-overview,post-crossfunctional"
+        },
+        {
+          "id": "infer-domain-delivery",
+          "class": "inference",
+          "title": "Domain plus delivery",
+          "text": "Pair performance-cycle learning with governance, planning, benefits, and change adoption. The relative emphasis on operations and program delivery remains to be clarified.",
+          "source_url": null,
+          "source_note": "An implication to examine, not an employer statement.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Study interpretation",
+          "inferred_from": "post-overview,post-governance"
+        }
+      ],
+      "unknowns": [
+        {
+          "id": "unknown-cycle-ownership",
+          "class": "unknown",
+          "title": "Operate or program-manage the cycle",
+          "text": "The division between hands-on cycle administration, program coordination, policy ownership, and system administration is unspecified.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-portfolio",
+          "class": "unknown",
+          "title": "Portfolio priorities and maturity",
+          "text": "Initial portfolio, current cycle problems, change backlog, maturity, and sequencing priorities are not established.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-org-design",
+          "class": "unknown",
+          "title": "Org design and authority",
+          "text": "Reporting line, direct reports, team size, budget authority, decision rights, and relationships to HR business partners and technology teams are not stated.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        }
+      ],
+      "drills": [
+        "drill-04",
+        "drill-21",
+        "drill-23"
+      ]
+    },
+    {
+      "id": "program-execution-governance",
+      "title": "Program execution and governance",
+      "posting_excerpts": [
+        {
+          "id": "post-plan",
+          "class": "posting",
+          "title": "Responsibilities / 2",
+          "text": "Develop and maintain integrated program plans, schedules, and resource allocations aligned with defined business goals",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 2",
+          "inferred_from": null
+        },
+        {
+          "id": "post-alignment",
+          "class": "posting",
+          "title": "Responsibilities / 3",
+          "text": "Collaborate with business stakeholders to ensure program alignment with organizational priorities and success metrics",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 3",
+          "inferred_from": null
+        },
+        {
+          "id": "post-governance",
+          "class": "posting",
+          "title": "Responsibilities / 4",
+          "text": "Apply program governance practices, tools, and reporting standards to monitor progress and ensure accountability",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 4",
+          "inferred_from": null
+        },
+        {
+          "id": "post-risk",
+          "class": "posting",
+          "title": "Responsibilities / 5",
+          "text": "Identify and address program risks, issues, and interdependencies across teams and functions",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 5",
+          "inferred_from": null
+        },
+        {
+          "id": "post-partners",
+          "class": "posting",
+          "title": "Responsibilities / 6",
+          "text": "Coordinate with internal and external partners to ensure cohesive and timely program execution",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 6",
+          "inferred_from": null
+        },
+        {
+          "id": "post-updates",
+          "class": "posting",
+          "title": "Responsibilities / 7",
+          "text": "Deliver program updates and performance insights to senior stakeholders and governance forums",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 7",
+          "inferred_from": null
+        },
+        {
+          "id": "post-controls",
+          "class": "posting",
+          "title": "Responsibilities / 9",
+          "text": "Ensure compliance with internal controls, policies, and governance standards",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 9",
+          "inferred_from": null
+        },
+        {
+          "id": "post-methods",
+          "class": "posting",
+          "title": "Responsibilities / 12",
+          "text": "Support the refinement of program delivery methodologies and enterprise best practices",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 12",
+          "inferred_from": null
+        },
+        {
+          "id": "post-enabling",
+          "class": "posting",
+          "title": "Responsibilities / 13",
+          "text": "Collaborate with enabling functions (e.g., finance, HR, operations) to support program execution and business readiness",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 13",
+          "inferred_from": null
+        },
+        {
+          "id": "post-represent",
+          "class": "posting",
+          "title": "Responsibilities / 14",
+          "text": "Represent the program management function in cross-functional planning and capability-building initiatives",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 14",
+          "inferred_from": null
+        },
+        {
+          "id": "post-other",
+          "class": "posting",
+          "title": "Responsibilities / 15",
+          "text": "May perform other duties as assigned",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 15",
+          "inferred_from": null
+        }
+      ],
+      "must_know": [
+        {
+          "id": "know-governance",
+          "class": "posting",
+          "title": "Cross-functional accountability",
+          "text": "The duties span planning, accountability, senior reporting, risk/issues, partner coordination, internal controls, and enabling functions.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": null,
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 2-14",
+          "inferred_from": null
+        }
+      ],
+      "study_notes": [
+        {
+          "id": "industry-raci",
+          "class": "industry",
+          "title": "Responsibility clarity",
+          "text": "RACI distinguishes who performs work, is accountable, is consulted, and is informed. It supports discussion but does not grant decision authority.",
+          "source_url": "https://www.atlassian.com/work-management/project-management/raci-chart",
+          "source_note": "General practice; not NFCU policy.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Linked primary-source guidance",
+          "inferred_from": null
+        },
+        {
+          "id": "industry-risk-issue",
+          "class": "industry",
+          "title": "Risks and issues",
+          "text": "Distinguish uncertain future conditions from problems already requiring action. Expose owners, response dates, dependencies, and escalation decisions.",
+          "source_url": "https://www.pmi.org/learning/library/risks-vs-issues-project-failure-2328",
+          "source_note": "General practice; not NFCU policy.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Linked primary-source guidance",
+          "inferred_from": null
+        },
+        {
+          "id": "infer-governance-pack",
+          "class": "inference",
+          "title": "Practice a governance pack",
+          "text": "Practice an integrated schedule, dependency view, decision log, risk/issue register, outcome dashboard, and senior update. These are study artifacts, not NFCU templates.",
+          "source_url": null,
+          "source_note": "An implication to examine, not an employer statement.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Study interpretation",
+          "inferred_from": "post-plan,post-risk,post-updates"
+        }
+      ],
+      "unknowns": [
+        {
+          "id": "unknown-org-design",
+          "class": "unknown",
+          "title": "Org design and authority",
+          "text": "Reporting line, direct reports, team size, budget authority, decision rights, and relationships to HR business partners and technology teams are not stated.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-policy-controls",
+          "class": "unknown",
+          "title": "Applicable internal controls",
+          "text": "Required internal controls, retention rules, review gates, and access restrictions are not detailed.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-portfolio",
+          "class": "unknown",
+          "title": "Portfolio priorities and maturity",
+          "text": "Initial portfolio, current cycle problems, change backlog, maturity, and sequencing priorities are not established.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        }
+      ],
+      "drills": [
+        "drill-05",
+        "drill-06",
+        "drill-07",
+        "drill-08",
+        "drill-15",
+        "drill-17",
+        "drill-22"
+      ]
+    },
+    {
+      "id": "investment-business-case-outcomes",
+      "title": "Investment, business case, outcomes",
+      "posting_excerpts": [
+        {
+          "id": "post-investment",
+          "class": "posting",
+          "title": "Responsibilities / 8",
+          "text": "Contribute to business case development and investment planning through data analysis and scenario modeling",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 8",
+          "inferred_from": null
+        },
+        {
+          "id": "post-outcomes",
+          "class": "posting",
+          "title": "Qualifications / 5",
+          "text": "Proven ability to align program execution with organizational goals, manage stakeholder expectations, and drive measurable outcomes",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 5",
+          "inferred_from": null
+        },
+        {
+          "id": "post-budget",
+          "class": "posting",
+          "title": "Qualifications / 6",
+          "text": "Advanced skills in program budgeting, resource planning, and risk mitigation across multiple workstreams",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 6",
+          "inferred_from": null
+        },
+        {
+          "id": "post-alignment",
+          "class": "posting",
+          "title": "Responsibilities / 3",
+          "text": "Collaborate with business stakeholders to ensure program alignment with organizational priorities and success metrics",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 3",
+          "inferred_from": null
+        }
+      ],
+      "must_know": [
+        {
+          "id": "know-investment",
+          "class": "posting",
+          "title": "Contribution versus approval",
+          "text": "The posting says contribute to business cases and investment planning through analysis and scenario modeling. Final investment approval authority is not stated.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": null,
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 8",
+          "inferred_from": null
+        }
+      ],
+      "study_notes": [
+        {
+          "id": "industry-benefits",
+          "class": "industry",
+          "title": "Benefits beyond delivery",
+          "text": "Benefits realization aligns intended value with strategy, plans its delivery, and sustains it after transition to ongoing operations.",
+          "source_url": "https://www.pmi.org/learning/thought-leadership/series/benefits-realization/benefits-realization-management-framework",
+          "source_note": "General practice; not NFCU policy.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Linked primary-source guidance",
+          "inferred_from": null
+        },
+        {
+          "id": "infer-case",
+          "class": "inference",
+          "title": "Business-case practice",
+          "text": "Compare hypothetical options, assumptions, costs, risks, adoption effort, and measurable benefits. Establish a baseline and measurement period before estimating improvement.",
+          "source_url": null,
+          "source_note": "An implication to examine, not an employer statement.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Study interpretation",
+          "inferred_from": "post-investment,post-outcomes"
+        },
+        {
+          "id": "infer-metric-pair",
+          "class": "inference",
+          "title": "Activity versus result",
+          "text": "A practice dashboard could pair early check-in participation with later sustained goal attainment. Neither is an established NFCU metric or target.",
+          "source_url": null,
+          "source_note": "An implication to examine, not an employer statement.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Study interpretation",
+          "inferred_from": "post-outcomes"
+        }
+      ],
+      "unknowns": [
+        {
+          "id": "unknown-success-baseline",
+          "class": "unknown",
+          "title": "Success measures and baseline",
+          "text": "No baseline, first-year targets, outcome definitions, data owners, or measurement periods are supplied.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-portfolio",
+          "class": "unknown",
+          "title": "Portfolio priorities and maturity",
+          "text": "Initial portfolio, current cycle problems, change backlog, maturity, and sequencing priorities are not established.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-org-design",
+          "class": "unknown",
+          "title": "Org design and authority",
+          "text": "Reporting line, direct reports, team size, budget authority, decision rights, and relationships to HR business partners and technology teams are not stated.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        }
+      ],
+      "drills": [
+        "drill-09",
+        "drill-10",
+        "drill-11",
+        "drill-12",
+        "drill-20",
+        "drill-23"
+      ]
+    },
+    {
+      "id": "change-adoption-mentoring",
+      "title": "Change, adoption, mentoring",
+      "posting_excerpts": [
+        {
+          "id": "post-change",
+          "class": "posting",
+          "title": "Responsibilities / 10",
+          "text": "Promote continuous improvement and change readiness within program teams",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 10",
+          "inferred_from": null
+        },
+        {
+          "id": "post-mentor",
+          "class": "posting",
+          "title": "Responsibilities / 11",
+          "text": "Mentor program managers and team leads to build delivery capability and leadership skills",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Responsibilities / 11",
+          "inferred_from": null
+        },
+        {
+          "id": "post-adoption",
+          "class": "posting",
+          "title": "Qualifications / 8",
+          "text": "Expert knowledge of change management and stakeholder engagement strategies to support adoption and sustainment",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 8",
+          "inferred_from": null
+        },
+        {
+          "id": "post-ocm",
+          "class": "posting",
+          "title": "Desired Qualifications / 3",
+          "text": "Experience with business process transformation or organizational change management is desirable.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Desired Qualifications / 3",
+          "inferred_from": null
+        }
+      ],
+      "must_know": [
+        {
+          "id": "know-adoption",
+          "class": "posting",
+          "title": "Adoption and sustainment",
+          "text": "Expert change-management and stakeholder-engagement knowledge are requested for adoption and sustainment; mentoring PMs and team leads is a responsibility.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": null,
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 8; Responsibilities / 11",
+          "inferred_from": null
+        }
+      ],
+      "study_notes": [
+        {
+          "id": "industry-adoption",
+          "class": "industry",
+          "title": "Measure use as well as launch",
+          "text": "Prosci distinguishes adoption speed, breadth of use, and proficiency. These dimensions can reveal gaps hidden by training attendance.",
+          "source_url": "https://www.prosci.com/blog/metrics-for-measuring-change-management",
+          "source_note": "General practice; not NFCU policy.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Linked primary-source guidance",
+          "inferred_from": null
+        },
+        {
+          "id": "infer-mentoring",
+          "class": "inference",
+          "title": "Build delivery judgment",
+          "text": "Practice helping a team lead diagnose a delivery problem, choose a response, and reflect on its result. The posting supplies no prescribed mentoring curriculum.",
+          "source_url": null,
+          "source_note": "An implication to examine, not an employer statement.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Study interpretation",
+          "inferred_from": "post-mentor"
+        },
+        {
+          "id": "infer-readiness",
+          "class": "inference",
+          "title": "Readiness questions",
+          "text": "Hypothetical checks could cover sponsor support, manager understanding, access, data quality, and support capacity. Actual readiness criteria need employer confirmation.",
+          "source_url": null,
+          "source_note": "An implication to examine, not an employer statement.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Study interpretation",
+          "inferred_from": "post-change,post-adoption"
+        }
+      ],
+      "unknowns": [
+        {
+          "id": "unknown-portfolio",
+          "class": "unknown",
+          "title": "Portfolio priorities and maturity",
+          "text": "Initial portfolio, current cycle problems, change backlog, maturity, and sequencing priorities are not established.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-policy-controls",
+          "class": "unknown",
+          "title": "Applicable internal controls",
+          "text": "Required internal controls, retention rules, review gates, and access restrictions are not detailed.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-success-baseline",
+          "class": "unknown",
+          "title": "Success measures and baseline",
+          "text": "No baseline, first-year targets, outcome definitions, data owners, or measurement periods are supplied.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        }
+      ],
+      "drills": [
+        "drill-12",
+        "drill-13",
+        "drill-14",
+        "drill-15",
+        "drill-22"
+      ]
+    },
+    {
+      "id": "qualifications-methods-tools",
+      "title": "Qualifications, methods, tools",
+      "posting_excerpts": [
+        {
+          "id": "post-fiveyears",
+          "class": "posting",
+          "title": "Qualifications / 1",
+          "text": "5+ years of relevant program management experience, managing programs in a cross-functional environment ",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 1",
+          "inferred_from": null
+        },
+        {
+          "id": "post-twoyears",
+          "class": "posting",
+          "title": "Qualifications / 2",
+          "text": "2+ years of experience leading multi-phase, cross-functional programs ",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 2",
+          "inferred_from": null
+        },
+        {
+          "id": "post-methodqual",
+          "class": "posting",
+          "title": "Qualifications / 3",
+          "text": "Advanced knowledge and understanding of program management methodologies (e.g., Agile, SAFe, Waterfall), with the ability to lead multi-team initiatives and adapt delivery models to business needs",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 3",
+          "inferred_from": null
+        },
+        {
+          "id": "post-transformation",
+          "class": "posting",
+          "title": "Qualifications / 4",
+          "text": "Significant experience in managing cross-functional programs that support business transformation, operational efficiency, or strategic initiatives",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 4",
+          "inferred_from": null
+        },
+        {
+          "id": "post-outcomes",
+          "class": "posting",
+          "title": "Qualifications / 5",
+          "text": "Proven ability to align program execution with organizational goals, manage stakeholder expectations, and drive measurable outcomes",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 5",
+          "inferred_from": null
+        },
+        {
+          "id": "post-budget",
+          "class": "posting",
+          "title": "Qualifications / 6",
+          "text": "Advanced skills in program budgeting, resource planning, and risk mitigation across multiple workstreams",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 6",
+          "inferred_from": null
+        },
+        {
+          "id": "post-govqual",
+          "class": "posting",
+          "title": "Qualifications / 7",
+          "text": "Experience with managing program governance processes, stakeholder communications, and issue resolution",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 7",
+          "inferred_from": null
+        },
+        {
+          "id": "post-adoption",
+          "class": "posting",
+          "title": "Qualifications / 8",
+          "text": "Expert knowledge of change management and stakeholder engagement strategies to support adoption and sustainment",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 8",
+          "inferred_from": null
+        },
+        {
+          "id": "post-analytics",
+          "class": "posting",
+          "title": "Qualifications / 9",
+          "text": "Advanced skill in using program analytics and reporting tools (e.g., Power BI, Tableau, Smartsheet) to monitor performance and inform leadership",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 9",
+          "inferred_from": null
+        },
+        {
+          "id": "post-degree",
+          "class": "posting",
+          "title": "Qualifications / 10",
+          "text": "Bachelor’s degree in Business Administration, Program Management, Organizational Development, or related field, or equivalent combination of training, education, and experience",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 10",
+          "inferred_from": null
+        },
+        {
+          "id": "post-masters",
+          "class": "posting",
+          "title": "Desired Qualifications / 1",
+          "text": " Master’s degree in Business Administration, Project Management, or related field, or equivalent combination of training, education, and experience",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Desired Qualifications / 1",
+          "inferred_from": null
+        },
+        {
+          "id": "post-certs",
+          "class": "posting",
+          "title": "Desired Qualifications / 2",
+          "text": "Professional Certifications (e.g.,PMP, PgMP, or Lean/Agile certification)",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Desired Qualifications / 2",
+          "inferred_from": null
+        },
+        {
+          "id": "post-ocm",
+          "class": "posting",
+          "title": "Desired Qualifications / 3",
+          "text": "Experience with business process transformation or organizational change management is desirable.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Desired Qualifications / 3",
+          "inferred_from": null
+        },
+        {
+          "id": "post-tools",
+          "class": "posting",
+          "title": "Desired Qualifications / 4",
+          "text": "Proficiency with MS Office; familiarity with tools (e.g., Smartsheet, MS Project, Jira) preferred.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Desired Qualifications / 4",
+          "inferred_from": null
+        }
+      ],
+      "must_know": [
+        {
+          "id": "know-analytics-tools",
+          "class": "posting",
+          "title": "Analytics examples",
+          "text": "Power BI, Tableau, and Smartsheet are named examples in the advanced analytics/reporting qualification.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": null,
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 9",
+          "inferred_from": null
+        },
+        {
+          "id": "know-preferred-tools",
+          "class": "posting",
+          "title": "Desired tool familiarity",
+          "text": "MS Office proficiency and preferred familiarity with Smartsheet, MS Project, and Jira appear in Desired Qualifications.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": null,
+          "retrieved_date": "2026-09-27",
+          "locator": "Desired Qualifications / 4",
+          "inferred_from": null
+        },
+        {
+          "id": "know-methods",
+          "class": "posting",
+          "title": "Methodology examples",
+          "text": "Agile, SAFe, and Waterfall accompany a requirement to lead multi-team initiatives and adapt delivery models to business needs.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": null,
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 3",
+          "inferred_from": null
+        },
+        {
+          "id": "know-credentials",
+          "class": "posting",
+          "title": "Desired credentials",
+          "text": "PMP, PgMP, or Lean/Agile certification appear in Desired Qualifications.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": null,
+          "retrieved_date": "2026-09-27",
+          "locator": "Desired Qualifications / 2",
+          "inferred_from": null
+        }
+      ],
+      "study_notes": [
+        {
+          "id": "industry-safe",
+          "class": "industry",
+          "title": "SAFe-in-HR caution",
+          "text": "Scaled Agile publishes community guidance for people practices in Lean-Agile work. This does not make software rituals or particular SAFe structures employer requirements.",
+          "source_url": "https://framework.scaledagile.com/agile-hr",
+          "source_note": "General practice; not NFCU policy.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Linked primary-source guidance",
+          "inferred_from": null
+        },
+        {
+          "id": "industry-powerbi",
+          "class": "industry",
+          "title": "Analytics tool purpose",
+          "text": "Microsoft describes Power BI as tools to connect, visualize, and share data. Knowing a product name differs from designing a reliable metric.",
+          "source_url": "https://learn.microsoft.com/en-us/power-bi/power-bi-overview",
+          "source_note": "General practice; not NFCU policy.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Linked primary-source guidance",
+          "inferred_from": null
+        },
+        {
+          "id": "infer-qual-wording",
+          "class": "inference",
+          "title": "Read each qualification precisely",
+          "text": "Distinguish duration, knowledge level, preferred familiarity, desired credentials, and degree equivalency instead of turning every example into an identical mandatory threshold.",
+          "source_url": null,
+          "source_note": "An implication to examine, not an employer statement.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Study interpretation",
+          "inferred_from": "post-fiveyears,post-tools"
+        }
+      ],
+      "unknowns": [
+        {
+          "id": "unknown-degree-metadata",
+          "class": "unknown",
+          "title": "Qualification text versus degree metadata",
+          "text": "The qualification paragraph lists a bachelor's degree or equivalent, while metadata says No Formal Education. Screening precedence is not explained; preserve both source assertions.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-tool-depth",
+          "class": "unknown",
+          "title": "Required depth by tool",
+          "text": "The examples do not establish whether every listed tool is mandatory, authoring versus consumption depth, or deployed versions.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-system-of-record",
+          "class": "unknown",
+          "title": "System of record and access",
+          "text": "The target posting does not name a talent system of record, configured modules, access level, integrations, or ownership. Oracle customer context does not answer these role-specific questions.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        }
+      ],
+      "drills": [
+        "drill-16",
+        "drill-17",
+        "drill-18",
+        "drill-24"
+      ]
+    },
+    {
+      "id": "public-employer-context",
+      "title": "Public employer context only",
+      "posting_excerpts": [
+        {
+          "id": "post-hours",
+          "class": "posting",
+          "title": "Additional Information / Hours",
+          "text": "Monday - Friday, 8:00AM - 4:30PM",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Additional Information / Hours",
+          "inferred_from": null
+        },
+        {
+          "id": "post-sponsor",
+          "class": "posting",
+          "title": "Job Description / sponsorship",
+          "text": "Navy Federal Credit Union currently does not provide sponsorship for this role. Applicants must be authorized to work in the United States without the need for current or future sponsorship.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Job Description / sponsorship",
+          "inferred_from": null
+        },
+        {
+          "id": "post-disclaimers",
+          "class": "posting",
+          "title": "About Us / Disclaimers",
+          "text": "Navy Federal reserves the right to fill this role at a higher/lower grade level based on business need. An assessment may be required to compete for this position. Job postings are subject to close early or extend out longer than the anticipated closing date at the hiring team's discretion based on qualified applicant volume. Navy Federal Credit Union assesses market data to establish salary ranges that enable us to remain competitive. You are paid within the salary range, based on your experience, location and market position. For additional details regarding compensation and benefits, review the Benefits page of the Navy Federal Career Site.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "About Us / Disclaimers",
+          "inferred_from": null
+        },
+        {
+          "id": "post-bsa",
+          "class": "posting",
+          "title": "About Us / Bank Secrecy Act",
+          "text": "Remains cognizant of and adheres to Navy Federal policies and procedures, and regulations pertaining to the Bank Secrecy Act.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "About Us / Bank Secrecy Act",
+          "inferred_from": null
+        }
+      ],
+      "must_know": [
+        {
+          "id": "public-oracle-context",
+          "class": "employer_public",
+          "title": "Oracle customer context",
+          "text": "Oracle reports NFCU use of Oracle Fusion Cloud Talent Management for check-ins, goal setting, and development; vendor context is not evidence of this vacancy's ownership.",
+          "source_url": "https://www.oracle.com/customers/navy-federal-credit-union/",
+          "source_note": "Vendor-reported customer story.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Solution and results",
+          "inferred_from": null
+        },
+        {
+          "id": "know-role-id",
+          "class": "posting",
+          "title": "Official requisition confirmed",
+          "text": "The retrieved official Job Info identifies this role as 32372.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": null,
+          "retrieved_date": "2026-09-27",
+          "locator": "Job Info / Job Identification",
+          "inferred_from": null
+        },
+        {
+          "id": "know-salary",
+          "class": "posting",
+          "title": "Captured salary range",
+          "text": "The official targeted annual range is $96,900-$141,600; the disclaimers describe placement based on experience, location, and market position.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": null,
+          "retrieved_date": "2026-09-27",
+          "locator": "Job Info / Targeted Salary Range; About Us / Disclaimers",
+          "inferred_from": null
+        },
+        {
+          "id": "know-campuses",
+          "class": "posting",
+          "title": "Locations and schedule",
+          "text": "Vienna, Pensacola, and Winchester campuses are listed; the page labels the role hybrid and full time and gives Monday-Friday 8:00AM-4:30PM hours.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": null,
+          "retrieved_date": "2026-09-27",
+          "locator": "Page heading; Additional Information; Job Info",
+          "inferred_from": null
+        }
+      ],
+      "study_notes": [
+        {
+          "id": "infer-oracle-boundary",
+          "class": "inference",
+          "title": "Keep vendor context bounded",
+          "text": "The Oracle story does not establish this requisition's access, ownership, reporting line, or implementation assignment.",
+          "source_url": null,
+          "source_note": "A bounded implication.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Study interpretation",
+          "inferred_from": "public-oracle-context"
+        },
+        {
+          "id": "infer-logistics",
+          "class": "inference",
+          "title": "Confirm logistics separately",
+          "text": "A hybrid label and listed campuses leave the reporting seat and on-site cadence open. An assessment disclaimer is a possibility, not a known selection format.",
+          "source_url": null,
+          "source_note": "An implication to examine, not an employer statement.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Study interpretation",
+          "inferred_from": "post-disclaimers"
+        }
+      ],
+      "unknowns": [
+        {
+          "id": "unknown-reporting-seat",
+          "class": "unknown",
+          "title": "Reporting seat versus listed campuses",
+          "text": "Three campuses and a hybrid label are listed. Reporting seat, on-site cadence, travel, and manager location are not established.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-interview-format",
+          "class": "unknown",
+          "title": "Interview format",
+          "text": "Panel membership, stages, duration, exercises, and questions are not established. The posting says an assessment may be required; no particular assessment is promised.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-system-of-record",
+          "class": "unknown",
+          "title": "System of record and access",
+          "text": "The target posting does not name a talent system of record, configured modules, access level, integrations, or ownership. Oracle customer context does not answer these role-specific questions.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-currency",
+          "class": "unknown",
+          "title": "Vacancy and source currency",
+          "text": "The captured apply-before field is a snapshot, not assurance of current vacancy availability. Recheck the official page before an application decision.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        }
+      ],
+      "drills": [
+        "drill-19",
+        "drill-20",
+        "drill-24"
+      ]
+    },
+    {
+      "id": "open-questions",
+      "title": "Open questions",
+      "posting_excerpts": [
+        {
+          "id": "post-overview",
+          "class": "posting",
+          "title": "Job Description / role overview",
+          "text": "Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Job Description / role overview",
+          "inferred_from": null
+        },
+        {
+          "id": "post-analytics",
+          "class": "posting",
+          "title": "Qualifications / 9",
+          "text": "Advanced skill in using program analytics and reporting tools (e.g., Power BI, Tableau, Smartsheet) to monitor performance and inform leadership",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Qualifications / 9",
+          "inferred_from": null
+        },
+        {
+          "id": "post-disclaimers",
+          "class": "posting",
+          "title": "About Us / Disclaimers",
+          "text": "Navy Federal reserves the right to fill this role at a higher/lower grade level based on business need. An assessment may be required to compete for this position. Job postings are subject to close early or extend out longer than the anticipated closing date at the hiring team's discretion based on qualified applicant volume. Navy Federal Credit Union assesses market data to establish salary ranges that enable us to remain competitive. You are paid within the salary range, based on your experience, location and market position. For additional details regarding compensation and benefits, review the Benefits page of the Navy Federal Career Site.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": "Exact line from the official browser capture.",
+          "retrieved_date": "2026-09-27",
+          "locator": "About Us / Disclaimers",
+          "inferred_from": null
+        }
+      ],
+      "must_know": [
+        {
+          "id": "know-assessment",
+          "class": "posting",
+          "title": "Only a possibility",
+          "text": "The posting says an assessment may be required; it identifies neither interview format nor a particular assessment.",
+          "source_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/",
+          "source_note": null,
+          "retrieved_date": "2026-09-27",
+          "locator": "About Us / Disclaimers",
+          "inferred_from": null
+        }
+      ],
+      "study_notes": [
+        {
+          "id": "infer-discovery-order",
+          "class": "inference",
+          "title": "Clarify scope before solutions",
+          "text": "Clarify success measures, cycle ownership, and decision rights before proposing a platform configuration or operating model.",
+          "source_url": null,
+          "source_note": "An implication to examine, not an employer statement.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Study interpretation",
+          "inferred_from": "post-overview,post-analytics"
+        }
+      ],
+      "unknowns": [
+        {
+          "id": "unknown-talent-philosophy",
+          "class": "unknown",
+          "title": "Talent Philosophy text",
+          "text": "The posting names the Talent Philosophy but supplies no principles, wording, approval owner, or operating guidance. Seek an employer-approved description before describing its content.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-leadership-model",
+          "class": "unknown",
+          "title": "Leadership Model text",
+          "text": "Competencies, behavior anchors, proficiency levels, and evaluation criteria for the named Leadership Model are not provided.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-calibration",
+          "class": "unknown",
+          "title": "Calibration owner and rubric",
+          "text": "Owner, participants, escalation path, evidence rules, rating scale, and distribution policy are not established. Do not assume forced distribution.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-cycle-ownership",
+          "class": "unknown",
+          "title": "Operate or program-manage the cycle",
+          "text": "The division between hands-on cycle administration, program coordination, policy ownership, and system administration is unspecified.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-interview-format",
+          "class": "unknown",
+          "title": "Interview format",
+          "text": "Panel membership, stages, duration, exercises, and questions are not established. The posting says an assessment may be required; no particular assessment is promised.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-system-of-record",
+          "class": "unknown",
+          "title": "System of record and access",
+          "text": "The target posting does not name a talent system of record, configured modules, access level, integrations, or ownership. Oracle customer context does not answer these role-specific questions.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-reporting-seat",
+          "class": "unknown",
+          "title": "Reporting seat versus listed campuses",
+          "text": "Three campuses and a hybrid label are listed. Reporting seat, on-site cadence, travel, and manager location are not established.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-org-design",
+          "class": "unknown",
+          "title": "Org design and authority",
+          "text": "Reporting line, direct reports, team size, budget authority, decision rights, and relationships to HR business partners and technology teams are not stated.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-success-baseline",
+          "class": "unknown",
+          "title": "Success measures and baseline",
+          "text": "No baseline, first-year targets, outcome definitions, data owners, or measurement periods are supplied.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-policy-controls",
+          "class": "unknown",
+          "title": "Applicable internal controls",
+          "text": "Required internal controls, retention rules, review gates, and access restrictions are not detailed.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-portfolio",
+          "class": "unknown",
+          "title": "Portfolio priorities and maturity",
+          "text": "Initial portfolio, current cycle problems, change backlog, maturity, and sequencing priorities are not established.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-degree-metadata",
+          "class": "unknown",
+          "title": "Qualification text versus degree metadata",
+          "text": "The qualification paragraph lists a bachelor's degree or equivalent, while metadata says No Formal Education. Screening precedence is not explained; preserve both source assertions.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-currency",
+          "class": "unknown",
+          "title": "Vacancy and source currency",
+          "text": "The captured apply-before field is a snapshot, not assurance of current vacancy availability. Recheck the official page before an application decision.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        },
+        {
+          "id": "unknown-tool-depth",
+          "class": "unknown",
+          "title": "Required depth by tool",
+          "text": "The examples do not establish whether every listed tool is mandatory, authoring versus consumption depth, or deployed versions.",
+          "source_url": null,
+          "source_note": "Not finding an answer here does not prove it is unavailable elsewhere.",
+          "retrieved_date": "2026-09-27",
+          "locator": "Unresolved in bounded public source set",
+          "inferred_from": null
+        }
+      ],
+      "drills": [
+        "drill-08",
+        "drill-19",
+        "drill-21",
+        "drill-23",
+        "drill-24"
+      ]
+    }
+  ]
+}

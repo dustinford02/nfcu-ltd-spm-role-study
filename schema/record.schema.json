@@ -1,0 +1,108 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Attributed study claim",
+  "type": "object",
+  "required": [
+    "id",
+    "class",
+    "title",
+    "text",
+    "source_url",
+    "source_note",
+    "retrieved_date",
+    "locator",
+    "inferred_from"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "class": {
+      "enum": [
+        "posting",
+        "employer_public",
+        "industry",
+        "inference",
+        "unknown",
+        "prep_drill",
+        "workspace_meta",
+        "candidate_material",
+        "candidate_fact"
+      ]
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "text": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_url": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source_note": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "retrieved_date": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "locator": {
+      "type": "string",
+      "minLength": 1
+    },
+    "inferred_from": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "class": {
+            "enum": [
+              "posting",
+              "employer_public"
+            ]
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "source_url": {
+            "type": "string",
+            "pattern": "^https://"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "class": {
+            "const": "inference"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "inferred_from": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    }
+  ]
+}
