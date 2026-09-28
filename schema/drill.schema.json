@@ -10,6 +10,7 @@
     "topic_ids",
     "file",
     "motivating_excerpts",
+    "answer",
     "body"
   ],
   "properties": {

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "source_digest": "79fb58786dc929e471e91c8afd863376794153672fff9d5d2b4b1c670e18eea0",
+  "source_digest": "6c4c5979b7fc3d788edbcde0b16311438d5086a28fcb0491c5a968132c4dc751",
   "source_manifest": [
     {
       "path": "content/adjacent/oracle-talent-management.md",
@@ -9,6 +9,10 @@
     {
       "path": "content/adjacent/related-nfcu-roles.md",
       "sha256": "535148b90e97e5fd9ce2d93deee6038fc8e920d24e8c8f9598d9fa666144a0dd"
+    },
+    {
+      "path": "content/answers/guides.json",
+      "sha256": "33473993e131517d26ffa9e48f5313da66f0382160df213d5a10b133f3b068f3"
     },
     {
       "path": "content/career/cards.json",
@@ -180,7 +184,7 @@
     },
     {
       "path": "schema/drill.schema.json",
-      "sha256": "19c2bac5d50ead186619111f81ad17c27089f4812e39dd1b3488022238e43676"
+      "sha256": "652104ecdb4bc66961602839eef7cf0336c620ae72954f4ec1f4ab49de1b0828"
     },
     {
       "path": "schema/record.schema.json",
@@ -2275,7 +2279,18 @@
         }
       ],
       "body": "# Recall the four named talent programs\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 3 minutes. Topics: talent-performance-systems.\n\n## Practice\n\nWithout opening the source, name the four talent programs explicitly named in the overview. Reopen it and identify one enterprise outcome it names.\n\n## Self-check instructions\n\nCheck each term against the source. Do not invent Talent Philosophy or Leadership Model content.\n\n## Motivating posting excerpts\n\n> Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.\n\nClass: posting. Job Description / role overview. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-01.md"
+      "source_path": "content/drills/drill-01.md",
+      "answer": {
+        "id": "answer-drill-01",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "The overview names four programs: the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model. It says these programs support organizational effectiveness, leadership capability, and workforce performance. I would use **leadership capability** as one stated outcome. The posting names the philosophy and model but does not describe their contents.",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-01",
+        "inferred_from": "drill-01-excerpt-1"
+      }
     },
     {
       "id": "drill-02",
@@ -2308,7 +2323,18 @@
         }
       ],
       "body": "# Sketch a reference performance cycle\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 3 minutes. Topics: performance-cycle-calibration.\n\n## Practice\n\nExplain a general performance cycle in plain language. Label it as a reference model, then name one employer-specific detail still missing.\n\n## Self-check instructions\n\nSeparate a general model from the actual employer calendar and approval process.\n\n## Motivating posting excerpts\n\n> Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.\n\nClass: posting. Job Description / role overview. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-02.md"
+      "source_path": "content/drills/drill-02.md",
+      "answer": {
+        "id": "answer-drill-02",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "A useful **reference model**, drawn from OPM's general performance-cycle guidance, is to plan expectations, monitor work and give feedback, develop capability, evaluate performance, and recognize results. Those stages connect rather than occur only at year end. For this employer, I would still need the actual calendar, rating rules, participants, and approval path before describing its cycle. [OPM reference](https://www.opm.gov/policy-data-oversight/performance-management/performance-management-cycle/).",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-02",
+        "inferred_from": "drill-02-excerpt-1"
+      }
     },
     {
       "id": "drill-03",
@@ -2341,7 +2367,18 @@
         }
       ],
       "body": "# Explain calibration without inventing policy\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 3 minutes. Topics: performance-cycle-calibration.\n\n## Practice\n\nGive a two-sentence explanation of calibration. Name two things required before describing this employer's process.\n\n## Self-check instructions\n\nDo not assert forced distribution, a particular rating scale, or this role's approval authority.\n\n## Motivating posting excerpts\n\n> Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.\n\nClass: posting. Job Description / role overview. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-03.md"
+      "source_path": "content/drills/drill-03.md",
+      "answer": {
+        "id": "answer-drill-03",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "Performance calibration is a structured discussion of judgments and supporting evidence so reviewers can examine consistency across people or groups. It should make differences and their rationale visible; it does not inherently require forced ranking. Before describing Navy Federal's process, I would ask for **the rating/evidence rubric** and **who participates and holds final approval authority**. [Oracle general concept](https://docs.oracle.com/en/cloud/saas/human-resources/faiwc/calibrated-performance-ratings-in-a-workforce-compensation-plan.html).",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-03",
+        "inferred_from": "drill-03-excerpt-1"
+      }
     },
     {
       "id": "drill-04",
@@ -2385,7 +2422,18 @@
         }
       ],
       "body": "# Keep overview and duties separate\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 3 minutes. Topics: overview-vs-duties-tension.\n\n## Practice\n\nRecall one talent-specific phrase from the overview and one delivery responsibility from the duty list. Explain why both deserve study.\n\n## Self-check instructions\n\nPoint to two distinct source sections; do not replace either with an inferred job description.\n\n## Motivating posting excerpts\n\n> Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.\n\nClass: posting. Job Description / role overview. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Lead cross-functional programs that support strategic initiatives, operational improvements, and business transformation\n\nClass: posting. Responsibilities / 1. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-04.md"
+      "source_path": "content/drills/drill-04.md",
+      "answer": {
+        "id": "answer-drill-04",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "The role overview explicitly names the full performance management cycle and calibration processes. The duty list separately calls for integrated program plans, schedules, and resource allocations. I would prepare for both because the overview identifies the talent-program subject, while the duties describe how a senior program manager is expected to coordinate delivery. The two sections do not establish how this specific team divides HR policy ownership and program execution.",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-04",
+        "inferred_from": "drill-04-excerpt-1, drill-04-excerpt-2"
+      }
     },
     {
       "id": "drill-05",
@@ -2429,7 +2477,18 @@
         }
       ],
       "body": "# Turn a duty into an artifact\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 10 minutes. Topics: program-execution-governance.\n\n## Practice\n\nIn a hypothetical cycle rollout, training, data preparation, and manager communications have different owners. Sketch the minimum shared plan needed to expose dependencies.\n\n## Self-check instructions\n\nInclude milestones, owners, entry criteria, dependencies, and escalation triggers. Mark invented dates and roles hypothetical.\n\n## Motivating posting excerpts\n\n> Develop and maintain integrated program plans, schedules, and resource allocations aligned with defined business goals\n\nClass: posting. Responsibilities / 2. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Identify and address program risks, issues, and interdependencies across teams and functions\n\nClass: posting. Responsibilities / 5. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-05.md"
+      "source_path": "content/drills/drill-05.md",
+      "answer": {
+        "id": "answer-drill-05",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "For a **hypothetical** rollout, I would make a single plan with a row per milestone: approved policy and content, tested data/access, completed manager guidance, communications release, launch, and support handoff. Each row would show a proposed owner to confirm, required input, due date to agree, evidence of readiness, and the dependent next task. If access testing slips, training and launch readiness turn amber; the plan names the decision owner and escalation threshold. The posting supports integrated planning and dependency management, but none of these dates or owners are confirmed employer facts.",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-05",
+        "inferred_from": "drill-05-excerpt-1, drill-05-excerpt-2"
+      }
     },
     {
       "id": "drill-06",
@@ -2473,7 +2532,18 @@
         }
       ],
       "body": "# Prepare a decision-focused update\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 10 minutes. Topics: program-execution-governance.\n\n## Practice\n\nA hypothetical program is on schedule, but a critical decision has no owner. Give a 90-second senior update that makes the decision and consequences clear.\n\n## Self-check instructions\n\nInclude status evidence, decision needed, options, an owner to confirm, and a date to agree; avoid activity counts without implications.\n\n## Motivating posting excerpts\n\n> Deliver program updates and performance insights to senior stakeholders and governance forums\n\nClass: posting. Responsibilities / 7. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Apply program governance practices, tools, and reporting standards to monitor progress and ensure accountability\n\nClass: posting. Responsibilities / 4. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-06.md"
+      "source_path": "content/drills/drill-06.md",
+      "answer": {
+        "id": "answer-drill-06",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "**Illustrative senior update:** 'The agreed milestones are currently on schedule, but the launch decision is at risk because no one has confirmed who can approve the exception process. We have two options: settle the authority and criteria before manager guidance goes out, or release only the material that does not depend on that decision. I recommend the first option if approval can be secured by the date we agree today. Who is accountable for that approval, and when can the group decide? If it remains open, I will show the affected milestones and a revised forecast at the next review.' This is a decision-oriented template, not a report of an actual Navy Federal program.",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-06",
+        "inferred_from": "drill-06-excerpt-1, drill-06-excerpt-2"
+      }
     },
     {
       "id": "drill-07",
@@ -2506,7 +2576,18 @@
         }
       ],
       "body": "# Risk, issue, or dependency?\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 3 minutes. Topics: program-execution-governance.\n\n## Practice\n\nClassify three hypothetical statements: access might arrive late; access is overdue; training cannot begin until access works. Explain how the response differs.\n\n## Self-check instructions\n\nKeep uncertain risk, current issue, and sequencing dependency distinct. Allow a fact to link to multiple management records.\n\n## Motivating posting excerpts\n\n> Identify and address program risks, issues, and interdependencies across teams and functions\n\nClass: posting. Responsibilities / 5. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-07.md"
+      "source_path": "content/drills/drill-07.md",
+      "answer": {
+        "id": "answer-drill-07",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "'Access **might** arrive late' is a risk: assess likelihood and impact, assign a mitigation owner, and set a trigger. 'Access **is** overdue' is an issue: record the current blockage, owner, recovery action, and decision deadline. 'Training cannot begin until access works' is a dependency: show its predecessor and successor on the plan and estimate schedule effect. One overdue access item can also create a separate downstream risk; the records should link rather than contradict one another.",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-07",
+        "inferred_from": "drill-07-excerpt-1"
+      }
     },
     {
       "id": "drill-08",
@@ -2551,7 +2632,18 @@
         }
       ],
       "body": "# Map authority before assigning it\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 10 minutes. Topics: program-execution-governance, open-questions.\n\n## Practice\n\nSketch a provisional responsibility map for HR, finance, operations, technology, and the program manager. Mark every assignment needing employer confirmation.\n\n## Self-check instructions\n\nThis is a proposed map, not an org chart. Identify who must validate actual decision rights.\n\n## Motivating posting excerpts\n\n> Collaborate with enabling functions (e.g., finance, HR, operations) to support program execution and business readiness\n\nClass: posting. Responsibilities / 13. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Ensure compliance with internal controls, policies, and governance standards\n\nClass: posting. Responsibilities / 9. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-08.md"
+      "source_path": "content/drills/drill-08.md",
+      "answer": {
+        "id": "answer-drill-08",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "A **provisional** responsibility map could put HR as a candidate for policy/content decisions, technology for access and system changes, finance for funding input, operations for manager readiness, and the program manager for integrating plans, risks, and decision records. For each decision, mark a tentative Responsible party, one Accountable decision owner, Consulted experts, and Informed groups. The actual owners, sign-off rights, and escalation forum must be validated with the employer; the posting names collaboration with these functions but does not provide an org chart or RACI. [RACI reference](https://www.atlassian.com/work-management/project-management/raci-chart).",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-08",
+        "inferred_from": "drill-08-excerpt-1, drill-08-excerpt-2"
+      }
     },
     {
       "id": "drill-09",
@@ -2595,7 +2687,18 @@
         }
       ],
       "body": "# Compare investment options\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 25 minutes. Topics: investment-business-case-outcomes.\n\n## Practice\n\nA hypothetical sponsor can improve manager guidance, automate reminders, or redesign reporting. Compare options using assumptions, costs, benefits, risks, and adoption effort.\n\n## Self-check instructions\n\nInvent no employer budget. Identify needed data, sensitivity to assumptions, and a recommendation conditional on that data.\n\n## Motivating posting excerpts\n\n> Contribute to business case development and investment planning through data analysis and scenario modeling\n\nClass: posting. Responsibilities / 8. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Advanced skills in program budgeting, resource planning, and risk mitigation across multiple workstreams\n\nClass: posting. Qualifications / 6. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-09.md"
+      "source_path": "content/drills/drill-09.md",
+      "answer": {
+        "id": "answer-drill-09",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "I would compare three **hypothetical** options on the same assumptions: manager guidance may cost less and be quick to pilot but depends on use; reminder automation may improve timely action but requires access, integration, and support; reporting redesign may improve decisions but needs trusted definitions and data. For each, estimate total cost, expected behavior or benefit, adoption effort, implementation risk, and what would be lost by waiting. I would ask for baseline completion, error, and manager-feedback data, then recommend the smallest option with a measurable test if the evidence is thin. If a sensitivity check reverses the ranking, take that decision back to the sponsor. [PMI benefits reference](https://www.pmi.org/learning/thought-leadership/series/benefits-realization/benefits-realization-management-framework).",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-09",
+        "inferred_from": "drill-09-excerpt-1, drill-09-excerpt-2"
+      }
     },
     {
       "id": "drill-10",
@@ -2628,7 +2731,18 @@
         }
       ],
       "body": "# Outputs, outcomes, and benefits\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 10 minutes. Topics: investment-business-case-outcomes.\n\n## Practice\n\nFor a hypothetical manager-support program, propose one deliverable, one behavior change, and one organizational benefit. Explain evidence that distinguishes them.\n\n## Self-check instructions\n\nState population, baseline, period, and attribution limits; a completed launch is not automatically an achieved workforce outcome.\n\n## Motivating posting excerpts\n\n> Proven ability to align program execution with organizational goals, manage stakeholder expectations, and drive measurable outcomes\n\nClass: posting. Qualifications / 5. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-10.md"
+      "source_path": "content/drills/drill-10.md",
+      "answer": {
+        "id": "answer-drill-10",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "For a **hypothetical** manager-support effort, an **output** is a tested check-in guide. An **outcome** is managers using the guide in timely, useful conversations with employees. A possible **benefit** is better development decisions or fewer avoidable review corrections. I would define the manager population and period, measure a baseline, sample actual use and quality, and compare outcomes with other possible causes. Publishing the guide proves delivery only; it does not prove the behavior or benefit. [PMI benefits reference](https://www.pmi.org/learning/thought-leadership/series/benefits-realization/benefits-realization-management-framework).",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-10",
+        "inferred_from": "drill-10-excerpt-1"
+      }
     },
     {
       "id": "drill-11",
@@ -2673,7 +2787,18 @@
         }
       ],
       "body": "# Build a balanced metric pair\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 10 minutes. Topics: investment-business-case-outcomes, performance-cycle-calibration.\n\n## Practice\n\nDesign one early indicator and one later outcome for a hypothetical cycle improvement. Define numerator, denominator, data owner, and reporting cadence.\n\n## Self-check instructions\n\nDo not present these as NFCU metrics. Explain how the pair could mislead and what cross-check would help.\n\n## Motivating posting excerpts\n\n> Collaborate with business stakeholders to ensure program alignment with organizational priorities and success metrics\n\nClass: posting. Responsibilities / 3. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Proven ability to align program execution with organizational goals, manage stakeholder expectations, and drive measurable outcomes\n\nClass: posting. Qualifications / 5. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-11.md"
+      "source_path": "content/drills/drill-11.md",
+      "answer": {
+        "id": "answer-drill-11",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "An **illustrative early indicator** is managers who complete a quality-checked draft check-in by the agreed checkpoint divided by managers expected to do so. A **later outcome** is employees whose review contains a specific, evidence-supported development action divided by reviewed employees, measured after the cycle. HR would need to confirm data ownership, quality rules, and a weekly-versus-cycle reporting cadence. A rising draft count can hide poor content, and a better later score may reflect changes in population or rubric; audit samples and comparable cohorts would be cross-checks. These are proposed measures, not Navy Federal metrics.",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-11",
+        "inferred_from": "drill-11-excerpt-1, drill-11-excerpt-2"
+      }
     },
     {
       "id": "drill-12",
@@ -2718,7 +2843,18 @@
         }
       ],
       "body": "# Audit a claim of success\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 25 minutes. Topics: investment-business-case-outcomes, change-adoption-mentoring.\n\n## Practice\n\nA hypothetical report says all managers completed training, so the change succeeded. Identify missing evidence and design a proportionate follow-up evaluation.\n\n## Self-check instructions\n\nSeparate attendance, understanding, actual use, proficiency, and sustained results. State what evidence would change the conclusion.\n\n## Motivating posting excerpts\n\n> Proven ability to align program execution with organizational goals, manage stakeholder expectations, and drive measurable outcomes\n\nClass: posting. Qualifications / 5. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Expert knowledge of change management and stakeholder engagement strategies to support adoption and sustainment\n\nClass: posting. Qualifications / 8. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-12.md"
+      "source_path": "content/drills/drill-12.md",
+      "answer": {
+        "id": "answer-drill-12",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "'All managers completed training' establishes attendance or completion, **not** successful change. I would check whether managers understood the step, could perform it in a realistic exercise, used it during the live cycle, produced acceptable work, and sustained it. A proportionate evaluation might sample work products and manager/employee feedback against a predeclared rubric, compare with a baseline, and examine exceptions. If completion is high but actual use or quality is low, the change is not yet demonstrated; if those measures improve over a defined period, the conclusion becomes stronger, while attribution still needs care.",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-12",
+        "inferred_from": "drill-12-excerpt-1, drill-12-excerpt-2"
+      }
     },
     {
       "id": "drill-13",
@@ -2751,7 +2887,18 @@
         }
       ],
       "body": "# Recall adoption dimensions\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 3 minutes. Topics: change-adoption-mentoring.\n\n## Practice\n\nName three different questions that measure adoption. Give one hypothetical example showing why attendance alone cannot answer them all.\n\n## Self-check instructions\n\nReview speed, breadth of use, and proficiency as industry concepts, not an NFCU framework.\n\n## Motivating posting excerpts\n\n> Expert knowledge of change management and stakeholder engagement strategies to support adoption and sustainment\n\nClass: posting. Qualifications / 8. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-13.md"
+      "source_path": "content/drills/drill-13.md",
+      "answer": {
+        "id": "answer-drill-13",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "Three adoption questions are **speed** (how quickly people begin), **breadth** (how many of the intended people use the change), and **proficiency** (how well they use it). In a **hypothetical** launch, 100 managers might attend a briefing, but only 60 might use the new check-in by the target date and only 40 might meet a quality rubric. Attendance therefore cannot answer use or proficiency. The numbers are illustrative; this is an industry measurement lens, not a known Navy Federal framework. [Prosci measurement reference](https://www.prosci.com/blog/metrics-for-measuring-change-management).",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-13",
+        "inferred_from": "drill-13-excerpt-1"
+      }
     },
     {
       "id": "drill-14",
@@ -2795,7 +2942,18 @@
         }
       ],
       "body": "# Diagnose before adding training\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 10 minutes. Topics: change-adoption-mentoring.\n\n## Practice\n\nManagers in a hypothetical rollout miss a new check-in step. Decide what to learn before prescribing another course.\n\n## Self-check instructions\n\nConsider awareness, incentives, access, workflow, skill, manager support, and workload as hypotheses to investigate.\n\n## Motivating posting excerpts\n\n> Promote continuous improvement and change readiness within program teams\n\nClass: posting. Responsibilities / 10. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Expert knowledge of change management and stakeholder engagement strategies to support adoption and sustainment\n\nClass: posting. Qualifications / 8. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-14.md"
+      "source_path": "content/drills/drill-14.md",
+      "answer": {
+        "id": "answer-drill-14",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "I would first ask whether managers knew the step existed, could access the system, had time and incentives to do it, understood the workflow, and had the required skill and support. I would look at help tickets, completion patterns, a few observed attempts, and manager feedback by group. If access fails, fix access; if the step is unclear, simplify the workflow; if capability is the barrier, use targeted practice and reinforcement. Another course is justified only after evidence shows a learning need. These are diagnostic hypotheses for the scenario, not asserted employer problems.",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-14",
+        "inferred_from": "drill-14-excerpt-1, drill-14-excerpt-2"
+      }
     },
     {
       "id": "drill-15",
@@ -2840,7 +2998,18 @@
         }
       ],
       "body": "# Mentor a lead through a dependency\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 10 minutes. Topics: change-adoption-mentoring, program-execution-governance.\n\n## Practice\n\nA hypothetical team lead escalates every dependency as an emergency. Conduct a short coaching exchange that develops judgment instead of taking over decisions.\n\n## Self-check instructions\n\nAsk for impact and evidence, agree escalation criteria, let the lead choose a next action, and define a reflection point.\n\n## Motivating posting excerpts\n\n> Mentor program managers and team leads to build delivery capability and leadership skills\n\nClass: posting. Responsibilities / 11. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Identify and address program risks, issues, and interdependencies across teams and functions\n\nClass: posting. Responsibilities / 5. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-15.md"
+      "source_path": "content/drills/drill-15.md",
+      "answer": {
+        "id": "answer-drill-15",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "**Illustrative coaching exchange:** 'What changed, who is affected, and what evidence makes this urgent? What decision can you make within your authority, and what threshold would require escalation? Name one action you will take now and the next checkpoint.' I would agree on criteria such as material schedule or control impact, ask the lead to choose and document the next action, then review the result together. That builds judgment while preserving a route for real emergencies; it is not a claim about an actual employee.",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-15",
+        "inferred_from": "drill-15-excerpt-1, drill-15-excerpt-2"
+      }
     },
     {
       "id": "drill-16",
@@ -2884,7 +3053,18 @@
         }
       ],
       "body": "# Classify the named tools\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 3 minutes. Topics: qualifications-methods-tools.\n\n## Practice\n\nRecall the analytics/reporting examples and desired tool familiarity. Identify one publicly associated platform not named in the target posting.\n\n## Self-check instructions\n\nUse the source sections. Keep named tools separate from Oracle customer context and adjacent roles.\n\n## Motivating posting excerpts\n\n> Advanced skill in using program analytics and reporting tools (e.g., Power BI, Tableau, Smartsheet) to monitor performance and inform leadership\n\nClass: posting. Qualifications / 9. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Proficiency with MS Office; familiarity with tools (e.g., Smartsheet, MS Project, Jira) preferred.\n\nClass: posting. Desired Qualifications / 4. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-16.md"
+      "source_path": "content/drills/drill-16.md",
+      "answer": {
+        "id": "answer-drill-16",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "The **required-qualification** analytics examples are Power BI, Tableau, and Smartsheet. The **desired** tool familiarity examples are Smartsheet, MS Project, and Jira, alongside MS Office proficiency. Oracle Fusion Cloud Talent Management appears in a separate Oracle customer story about Navy Federal; it is **not named in this requisition's tool list**. A vendor association does not establish that this role administers Oracle or that the candidate has used it. [Oracle customer story](https://www.oracle.com/customers/navy-federal-credit-union/).",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-16",
+        "inferred_from": "drill-16-excerpt-1, drill-16-excerpt-2"
+      }
     },
     {
       "id": "drill-17",
@@ -2929,7 +3109,18 @@
         }
       ],
       "body": "# Choose a delivery approach conditionally\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 25 minutes. Topics: qualifications-methods-tools, program-execution-governance.\n\n## Practice\n\nA hypothetical annual cycle has a fixed date but uncertain reporting requirements. Propose a delivery approach and identify work suited to iteration versus explicit sequencing.\n\n## Self-check instructions\n\nJustify choices from constraints. Do not assume SAFe adoption, release trains, or a prescribed NFCU methodology.\n\n## Motivating posting excerpts\n\n> Advanced knowledge and understanding of program management methodologies (e.g., Agile, SAFe, Waterfall), with the ability to lead multi-team initiatives and adapt delivery models to business needs\n\nClass: posting. Qualifications / 3. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Develop and maintain integrated program plans, schedules, and resource allocations aligned with defined business goals\n\nClass: posting. Responsibilities / 2. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-17.md"
+      "source_path": "content/drills/drill-17.md",
+      "answer": {
+        "id": "answer-drill-17",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "I would use a **hybrid proposal** for the scenario. Work backward from the fixed cycle date to sequence policy decisions, access testing, data validation, communications approval, and launch gates. Iterate on uncertain reporting definitions with short demonstrations and user feedback before locking the required output. Keep one integrated plan and change log so iteration cannot silently move the fixed gate. The posting lists Agile, SAFe, and Waterfall as methodology examples and asks the leader to adapt delivery; it does not say Navy Federal uses one method for this team.",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-17",
+        "inferred_from": "drill-17-excerpt-1, drill-17-excerpt-2"
+      }
     },
     {
       "id": "drill-18",
@@ -3006,7 +3197,18 @@
         }
       ],
       "body": "# Read qualification levels precisely\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 10 minutes. Topics: qualifications-methods-tools.\n\n## Practice\n\nCreate columns for experience requirements, knowledge/skill expectations, and desired qualifications. Place each sampled phrase correctly.\n\n## Self-check instructions\n\nPreserve five-plus versus two-plus years, equivalency wording, and desired status. Flag conflicting degree metadata without guessing its resolution.\n\n## Motivating posting excerpts\n\n> 5+ years of relevant program management experience, managing programs in a cross-functional environment \n\nClass: posting. Qualifications / 1. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> 2+ years of experience leading multi-phase, cross-functional programs \n\nClass: posting. Qualifications / 2. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Bachelor’s degree in Business Administration, Program Management, Organizational Development, or related field, or equivalent combination of training, education, and experience\n\nClass: posting. Qualifications / 10. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Professional Certifications (e.g.,PMP, PgMP, or Lean/Agile certification)\n\nClass: posting. Desired Qualifications / 2. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Proficiency with MS Office; familiarity with tools (e.g., Smartsheet, MS Project, Jira) preferred.\n\nClass: posting. Desired Qualifications / 4. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-18.md"
+      "source_path": "content/drills/drill-18.md",
+      "answer": {
+        "id": "answer-drill-18",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "**Experience requirements:** 5+ years of relevant cross-functional program management and 2+ years leading multi-phase, cross-functional programs. **Knowledge and skill expectations:** advanced program-methodology knowledge, budgeting/resource/risk skill, stakeholder governance, change management, analytics and reporting. **Education in Qualifications:** a bachelor's in a named or related field **or an equivalent combination of training, education, and experience**. **Desired:** a master's or equivalent combination, professional certifications such as PMP/PgMP/Lean-Agile, and preferred familiarity with Smartsheet, MS Project, or Jira. The structured Job Info field says 'No Formal Education' while the prose specifies a degree-or-equivalency pathway; flag that mismatch for clarification rather than deleting either source statement.",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-18",
+        "inferred_from": "drill-18-excerpt-1, drill-18-excerpt-2, drill-18-excerpt-3, drill-18-excerpt-4, drill-18-excerpt-5"
+      }
     },
     {
       "id": "drill-19",
@@ -3051,7 +3253,18 @@
         }
       ],
       "body": "# Bound the Oracle customer story\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 3 minutes. Topics: public-employer-context, open-questions.\n\n## Practice\n\nExplain what the Oracle story establishes as vendor-reported context. Name three conclusions it cannot establish about this requisition.\n\n## Self-check instructions\n\nDo not infer ownership, privileges, implementation assignments, or hiring-manager identity from the story.\n\n## Motivating posting excerpts\n\n> Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.\n\nClass: posting. Job Description / role overview. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Advanced skill in using program analytics and reporting tools (e.g., Power BI, Tableau, Smartsheet) to monitor performance and inform leadership\n\nClass: posting. Qualifications / 9. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-19.md"
+      "source_path": "content/drills/drill-19.md",
+      "answer": {
+        "id": "answer-drill-19",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "Oracle's customer story reports that Navy Federal uses Oracle Fusion Cloud Talent Management for goals, check-ins, and development and gives vendor-reported usage measures. It is useful public context for asking intelligent questions. It does **not** establish that requisition 32372 owns that system, that its manager or team implemented the reported work, or that the selected candidate will have administrative privileges. It also does not explain the internal Talent Philosophy or Leadership Model. [Oracle customer story](https://www.oracle.com/customers/navy-federal-credit-union/).",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-19",
+        "inferred_from": "drill-19-excerpt-1, drill-19-excerpt-2"
+      }
     },
     {
       "id": "drill-20",
@@ -3085,7 +3298,18 @@
         }
       ],
       "body": "# Interpret a vendor metric carefully\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 10 minutes. Topics: public-employer-context, investment-business-case-outcomes.\n\n## Practice\n\nOracle reports growth in goals and goal participation. Explain what further evidence would be needed to conclude workforce performance improved.\n\n## Self-check instructions\n\nPreserve vendor attribution. Distinguish activity volume, coverage, quality, and outcomes; request period and measurement design.\n\n## Motivating posting excerpts\n\n> Proven ability to align program execution with organizational goals, manage stakeholder expectations, and drive measurable outcomes\n\nClass: posting. Qualifications / 5. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-20.md"
+      "source_path": "content/drills/drill-20.md",
+      "answer": {
+        "id": "answer-drill-20",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "Oracle reports 58% growth in average performance goals per employee, growth from 25,000 to 29,000 employees with goals, and 125% growth in workers with development goals. These are **vendor-reported activity and coverage measures**. To infer better workforce performance, I would need the measurement period and denominator, data quality and goal-quality rubric, employee/manager behavior over time, a baseline and meaningful comparison, and downstream outcomes such as development progress or performance quality. I would also examine other changes that could explain the shift. More goal records alone do not prove better performance. [Oracle customer story](https://www.oracle.com/customers/navy-federal-credit-union/).",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-20",
+        "inferred_from": "drill-20-excerpt-1"
+      }
     },
     {
       "id": "drill-21",
@@ -3130,7 +3354,18 @@
         }
       ],
       "body": "# Prioritize high-value unknowns\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 10 minutes. Topics: open-questions, overview-vs-duties-tension.\n\n## Practice\n\nChoose five unresolved questions and rank them by how much they change understanding of the work. For each, identify a plausible authoritative source.\n\n## Self-check instructions\n\nKeep Talent Philosophy, Leadership Model, calibration rules, scope, and reporting authority open until established.\n\n## Motivating posting excerpts\n\n> Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.\n\nClass: posting. Job Description / role overview. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Apply program governance practices, tools, and reporting standards to monitor progress and ensure accountability\n\nClass: posting. Responsibilities / 4. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-21.md"
+      "source_path": "content/drills/drill-21.md",
+      "answer": {
+        "id": "answer-drill-21",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "**One defensible ranking:** (1) Does this role own the talent-program process, coordinate delivery, or both? Ask the hiring manager and approved role charter. (2) Who approves calibration rules and exceptions? Ask the HR process owner and current governance document. (3) What do the Talent Philosophy and Leadership Model actually say? Ask for the current employer-owned documents or an authorized summary. (4) Which system is the record of truth and what access does the role have? Ask the HRIS owner and a system inventory. (5) What are the next cycle's milestones and success measures? Ask the program sponsor for the approved calendar and scorecard. The order is a study judgment; none of these answers is established in the public source set.",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-21",
+        "inferred_from": "drill-21-excerpt-1, drill-21-excerpt-2"
+      }
     },
     {
       "id": "drill-22",
@@ -3187,7 +3422,18 @@
         }
       ],
       "body": "# Run a hypothetical readiness review\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 25 minutes. Topics: performance-cycle-calibration, program-execution-governance, change-adoption-mentoring.\n\n## Practice\n\nDesign a readiness review for a hypothetical cycle launch covering policy sign-off, access, data, communications, manager capability, support, and exceptions.\n\n## Self-check instructions\n\nLabel it a proposal. Include evidence per gate, owners to confirm, and a response when evidence is incomplete.\n\n## Motivating posting excerpts\n\n> Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.\n\nClass: posting. Job Description / role overview. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Ensure compliance with internal controls, policies, and governance standards\n\nClass: posting. Responsibilities / 9. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Promote continuous improvement and change readiness within program teams\n\nClass: posting. Responsibilities / 10. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-22.md"
+      "source_path": "content/drills/drill-22.md",
+      "answer": {
+        "id": "answer-drill-22",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "For a **hypothetical readiness review**, I would use a seven-gate table: policy signed by an authorized owner; access tested by intended user types; data reconciled and exceptions logged; communications approved for the intended groups; managers able to perform a short task; support capacity and routing confirmed; exceptions assigned with deadlines. Each gate needs an evidence link, a proposed owner to confirm, a status, and a decision. An incomplete critical gate triggers a documented hold or a narrowed launch decision by the actual authority; noncritical gaps receive a tracked mitigation and date. This is a proposed control design, not Navy Federal's actual launch checklist.",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-22",
+        "inferred_from": "drill-22-excerpt-1, drill-22-excerpt-2, drill-22-excerpt-3"
+      }
     },
     {
       "id": "drill-23",
@@ -3244,7 +3490,18 @@
         }
       ],
       "body": "# Design a discovery workshop\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 25 minutes. Topics: overview-vs-duties-tension, open-questions, investment-business-case-outcomes.\n\n## Practice\n\nPlan a hypothetical workshop to understand a talent-program portfolio. Produce an agenda, needed inputs, decision questions, and outputs.\n\n## Self-check instructions\n\nInvent no current problems. Separate verified scope, stakeholder hypotheses, success measures, constraints, and unresolved decisions.\n\n## Motivating posting excerpts\n\n> Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.\n\nClass: posting. Job Description / role overview. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Collaborate with business stakeholders to ensure program alignment with organizational priorities and success metrics\n\nClass: posting. Responsibilities / 3. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Collaborate with enabling functions (e.g., finance, HR, operations) to support program execution and business readiness\n\nClass: posting. Responsibilities / 13. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-23.md"
+      "source_path": "content/drills/drill-23.md",
+      "answer": {
+        "id": "answer-drill-23",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "I would propose a **discovery workshop**, not assume a current defect. Ahead of it, request the approved program inventory, annual calendar, stakeholder map, governance decisions, current measures, open risks, and relevant policies. Agenda: confirm purpose and scope; map each program's users, outcomes, and handoffs; surface evidence and unresolved choices; rank dependencies; agree who will validate the map. Decision questions include who owns policy versus delivery, what changes this cycle, what success looks like, and which decisions need escalation. Outputs are a validated scope draft, decision log, dependency map, prioritized questions, and an owner/date for each follow-up.",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-23",
+        "inferred_from": "drill-23-excerpt-1, drill-23-excerpt-2, drill-23-excerpt-3"
+      }
     },
     {
       "id": "drill-24",
@@ -3302,7 +3559,18 @@
         }
       ],
       "body": "# Reconstruct the role from sources\n\nThis is not an official interview question.\n\nClass: prep_drill. Timebox: 25 minutes. Topics: talent-performance-systems, qualifications-methods-tools, public-employer-context, open-questions.\n\n## Practice\n\nCreate a one-page map of purpose, delivery duties, qualifications, and unknowns. Attach one source locator to every factual statement.\n\n## Self-check instructions\n\nCheck against the current official posting. Label general practice and inference; keep adjacent-role requirements outside this role.\n\n## Motivating posting excerpts\n\n> Responsible for leading, influencing, and advancing enterprise talent and performance management programs that support organizational effectiveness, leadership capability, and workforce performance. Develops and executes strategies to ensure timely, effective, and consistent delivery and administration of key talent programs, including the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model.\n\nClass: posting. Job Description / role overview. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Advanced knowledge and understanding of program management methodologies (e.g., Agile, SAFe, Waterfall), with the ability to lead multi-team initiatives and adapt delivery models to business needs\n\nClass: posting. Qualifications / 3. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).\n\n> Navy Federal reserves the right to fill this role at a higher/lower grade level based on business need. An assessment may be required to compete for this position. Job postings are subject to close early or extend out longer than the anticipated closing date at the hiring team's discretion based on qualified applicant volume. Navy Federal Credit Union assesses market data to establish salary ranges that enable us to remain competitive. You are paid within the salary range, based on your experience, location and market position. For additional details regarding compensation and benefits, review the Benefits page of the Navy Federal Career Site.\n\nClass: posting. About Us / Disclaimers. [Official source](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32372/).",
-      "source_path": "content/drills/drill-24.md"
+      "source_path": "content/drills/drill-24.md",
+      "answer": {
+        "id": "answer-drill-24",
+        "class": "inference",
+        "title": "Worked study response",
+        "text": "**Purpose (official Job Description):** lead enterprise talent and performance programs, including the performance cycle, calibration, Talent Philosophy, and Leadership Model. **Delivery (official Responsibilities):** build integrated plans, manage dependencies and governance, report to senior stakeholders, contribute to business cases, support change readiness, and mentor leads. **Qualifications (official Qualifications):** 5+ years of relevant program work, 2+ years leading multi-phase work, and advanced methods, analytics, budgeting, and change skill; the degree prose includes an equivalency option. **Unknowns (public-source gap):** role/process ownership, internal philosophy/model text, calibration authority, system access, and interview format. Oracle's customer story and neighboring roles provide context only, not additional requirements for this requisition.",
+        "source_url": null,
+        "source_note": "Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.",
+        "retrieved_date": "2026-09-27",
+        "locator": "Answer guide for drill-24",
+        "inferred_from": "drill-24-excerpt-1, drill-24-excerpt-2, drill-24-excerpt-3"
+      }
     }
   ],
   "career": [
@@ -3346,7 +3614,13 @@
         }
       ],
       "notice": "This is not an official interview question.",
-      "disclosure_status": "PUBLIC_USER_AUTHORIZED"
+      "disclosure_status": "PUBLIC_USER_AUTHORIZED",
+      "answer_guide": {
+        "id": "career-01",
+        "supported_opening": "A supportable opening is that you managed up to 24 GovCIO direct reports. You can also mention, as a separate team cohort, that four people earned the specified degrees or PMP credential. Both are dated user statements, not independently verified employer outcomes.",
+        "example_to_supply": "Choose one real person or situation. Add the development need, what you personally did, what the employee did, and one observable change with a period and source you can defend. Do not claim your coaching caused the credentials solely because they were earned on your team.",
+        "follow_up_response": "Attribute the support actions you actually performed to yourself. Attribute the study, examination, and credential to the employees. If you cannot document a causal effect, say that your role was to support their development while they achieved the credential."
+      }
     },
     {
       "id": "career-02",
@@ -3377,7 +3651,13 @@
         }
       ],
       "notice": "This is not an official interview question.",
-      "disclosure_status": "PUBLIC_USER_AUTHORIZED"
+      "disclosure_status": "PUBLIC_USER_AUTHORIZED",
+      "answer_guide": {
+        "id": "career-02",
+        "supported_opening": "A supportable opening is that, as a Navy Chief at NATTC, you were responsible for mentoring approximately 52 Sailors. That number is a mentorship population, not a direct-report count or an achieved result.",
+        "example_to_supply": "Recall a specific qualification or career-development conversation. Add the Sailor's goal, your guidance, the action the Sailor took, and the observed outcome if you can support it. If no outcome is documented, describe the action and stop there.",
+        "follow_up_response": "Use only the outcome of the chosen conversation. Do not attach unrelated command-wide totals or imply that all 52 Sailors reached the same result."
+      }
     },
     {
       "id": "career-03",
@@ -3407,7 +3687,13 @@
         }
       ],
       "notice": "This is not an official interview question.",
-      "disclosure_status": "PUBLIC_USER_AUTHORIZED"
+      "disclosure_status": "PUBLIC_USER_AUTHORIZED",
+      "answer_guide": {
+        "id": "career-03",
+        "supported_opening": "The bounded fact available now is personal curriculum work across 3–5 Information Systems Technician courses, recorded as a user statement. It does not identify a specific defect, your exact disposition, or a measured result.",
+        "example_to_supply": "Choose one real discrepancy or review handoff. State the requirement and source you checked, the finding, your own analysis or recommendation, the next owner's action, and the accepted disposition if known. Keep team-period totals out unless you can trace personal attribution.",
+        "follow_up_response": "Point to a review comment, handoff, or accepted change that establishes your step. Distinguish it from what the curriculum team or government reviewers decided later."
+      }
     },
     {
       "id": "career-04",
@@ -3438,7 +3724,13 @@
         }
       ],
       "notice": "This is not an official interview question.",
-      "disclosure_status": "PUBLIC_USER_AUTHORIZED"
+      "disclosure_status": "PUBLIC_USER_AUTHORIZED",
+      "answer_guide": {
+        "id": "career-04",
+        "supported_opening": "The certificate copy records your PMP award on August 21, 2024, with a printed expiration of August 21, 2027. That is a credential record; the app has not checked live registry standing or inferred program results from it.",
+        "example_to_supply": "Select a real program decision rather than describing the exam. Explain competing options, schedule/resource/risk evidence, affected stakeholders, your actual recommendation or decision right, and the outcome you can substantiate.",
+        "follow_up_response": "Name the specific decision you made or influenced in work, the artifact or witness that supports it, and where final authority belonged. The PMP alone does not establish that decision."
+      }
     },
     {
       "id": "career-05",
@@ -3469,7 +3761,13 @@
         }
       ],
       "notice": "This is not an official interview question.",
-      "disclosure_status": "PUBLIC_USER_AUTHORIZED"
+      "disclosure_status": "PUBLIC_USER_AUTHORIZED",
+      "answer_guide": {
+        "id": "career-05",
+        "supported_opening": "Your UWF credential copy supports an MBA with a Human Resources Management Emphasis conferred May 4, 2024. It supports education, not ownership of an employer performance cycle.",
+        "example_to_supply": "Pick an HR concept you actually studied and explain it accurately. Then say, explicitly as a **proposal**, how you would test that concept in a hypothetical performance-cycle problem and what evidence you would collect before recommending it.",
+        "follow_up_response": "Ask for the employer's actual policy, cycle calendar, rating/evidence rubric, decision rights, user groups, and current measures. Adapt the idea only after those facts are known."
+      }
     },
     {
       "id": "career-06",
@@ -3499,7 +3797,13 @@
         }
       ],
       "notice": "This is not an official interview question.",
-      "disclosure_status": "PUBLIC_USER_AUTHORIZED"
+      "disclosure_status": "PUBLIC_USER_AUTHORIZED",
+      "answer_guide": {
+        "id": "career-06",
+        "supported_opening": "A NATTC record supports your historical Master Training Specialist designation. It is a training foundation, not proof of a specific civilian manager-enablement result.",
+        "example_to_supply": "Choose one actual instructional judgment you made: the learner problem, evidence used, change you chose, and observed result if verified. Then label any application to manager enablement as a proposed transfer, not past implementation.",
+        "follow_up_response": "In a proposed program, check observed manager behavior or work products after training against a baseline and rubric. Attendance or satisfaction alone would not demonstrate transfer."
+      }
     },
     {
       "id": "career-07",
@@ -3530,7 +3834,13 @@
         }
       ],
       "notice": "This is not an official interview question.",
-      "disclosure_status": "PUBLIC_USER_AUTHORIZED"
+      "disclosure_status": "PUBLIC_USER_AUTHORIZED",
+      "answer_guide": {
+        "id": "career-07",
+        "supported_opening": "The ISPI certificate copy establishes completion of the AI4PI Journey on March 31, 2026. It does not establish assessed AI engineering skill or an implemented workplace AI system.",
+        "example_to_supply": "Name one concept you actually learned and explain it in your own words. Propose a small, low-risk evaluation of an AI-supported learning task, with human review of outputs and a comparison against the current process. Mark the pilot and result as future proposals.",
+        "follow_up_response": "Require an approved data-use boundary, no unnecessary personal information, a quality rubric, human review, baseline time/error measures, and a defined sample and period before claiming an improvement."
+      }
     },
     {
       "id": "career-08",
@@ -3561,7 +3871,13 @@
         }
       ],
       "notice": "This is not an official interview question.",
-      "disclosure_status": "PUBLIC_USER_AUTHORIZED"
+      "disclosure_status": "PUBLIC_USER_AUTHORIZED",
+      "answer_guide": {
+        "id": "career-08",
+        "supported_opening": "The August 2026 unofficial transcript supports 36 doctoral credits earned through Summer 2026 in Instructional and Performance Technology, with later coursework listed in progress. It shows no awarded doctorate.",
+        "example_to_supply": "Frame a researchable question such as: 'Why are managers missing a required step?' Treat skill, workflow, access, incentive, and workload as competing explanations. Propose observation, system data, and interviews to distinguish them. If you have used this method at work, add only a separately supported example.",
+        "follow_up_response": "Say which diagnostic ideas come from your academic study. Name a workplace action or result only if you can trace it to your own documented or attested experience; do not convert coursework into job outcomes."
+      }
     },
     {
       "id": "career-09",
@@ -3591,7 +3907,13 @@
         }
       ],
       "notice": "This is not an official interview question.",
-      "disclosure_status": "PUBLIC_USER_AUTHORIZED"
+      "disclosure_status": "PUBLIC_USER_AUTHORIZED",
+      "answer_guide": {
+        "id": "career-09",
+        "supported_opening": "The dated user correction identifies Operating BEAT as your personal concept, not GovCIO property, and states it has never been actualized or piloted. Ownership here is user testimony, not legal proof.",
+        "example_to_supply": "If asked, describe the problem the concept is intended to examine and the design hypothesis at a high level. Propose what a future, authorized test would measure and who would approve it. Do not present a deployment, pilot, adoption, savings, or realized result.",
+        "follow_up_response": "A claim that it worked would require an approved real-world test, a defined baseline and population, observed outcomes over a period, and an attribution analysis. None is established here."
+      }
     },
     {
       "id": "career-10",
@@ -3676,7 +3998,13 @@
         }
       ],
       "notice": "This is not an official interview question.",
-      "disclosure_status": "PUBLIC_USER_AUTHORIZED"
+      "disclosure_status": "PUBLIC_USER_AUTHORIZED",
+      "answer_guide": {
+        "id": "career-10",
+        "supported_opening": "Your dated tools list names platforms across planning, reporting, instruction, documents, AI, and collaboration. Inclusion records familiarity asserted by you; it does not measure skill depth, current access, or subscription status.",
+        "example_to_supply": "Select one tool you can demonstrate. Name one task you personally performed, the artifact you created, and the decision or handoff it supported. Show or describe the artifact at the level permitted by your employer's disclosure rules; do not substitute a list of product names for a work example.",
+        "follow_up_response": "Separate tools you can demonstrate now from tools needing refresher practice, account access, or a connector check. State any gap directly rather than implying current expertise or paid access."
+      }
     }
   ],
   "career_sources": [

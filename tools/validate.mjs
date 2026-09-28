@@ -51,13 +51,20 @@ try {
   }
   assert(data.drills.length>=20&&data.drills.length<=30,'drill count must be 20–30');
   const drillIds=new Set();
+  const guides=json(root,'content/answers/guides.json');
+  assert(guides.version===1&&Array.isArray(guides.role)&&Array.isArray(guides.career),'answer guide format');
+  assert(guides.role.length===data.drills.length,'one answer guide per role drill');
+  assert(guides.career.length===data.career.length,'one answer guide per career card');
+  assert(new Set(guides.role.map(g=>g.id)).size===guides.role.length,'duplicate role answer guide');
+  assert(new Set(guides.career.map(g=>g.id)).size===guides.career.length,'duplicate career answer guide');
   for(const d of data.drills) {
     schemaCheck(d,json(root,'schema/drill.schema.json'),root,d.id,errors);
     assert(!drillIds.has(d.id),`duplicate drill ${d.id}`);drillIds.add(d.id);
     assert(d.body.includes('This is not an official interview question'),`${d.id}: disclaimer missing`);
     for(const id of d.topic_ids)assert(ids.has(id),`${d.id}: unknown topic ${id}`);
     for(const e of d.motivating_excerpts)assert(e.class==='posting'&&norm(live).includes(norm(e.text)),`${d.id}: motivating excerpt not retrieved`);
-    if(d.answer)assert(['industry','inference'].includes(d.answer.class),`${d.id}: answer must be industry or inference`);
+    assert(d.answer&&d.answer.class==='inference'&&d.answer.text.length>=80,`${d.id}: substantive model answer missing`);
+    if(d.answer){checkRecord(d.answer,`${d.id}.answer`);for(const id of d.answer.inferred_from.split(', '))assert(d.motivating_excerpts.some(e=>e.id===id),`${d.id}: answer lineage must name a motivating excerpt`);}
   }
   for(const t of data.topics)for(const id of t.drills)assert(drillIds.has(id),`${t.id}: missing drill ${id}`);
   const unknowns=read(root,'content/unknowns.md');
@@ -68,6 +75,7 @@ try {
   for(const card of data.career) {
     assert(card.class==='candidate_material'&&card.disclosure_status==='PUBLIC_USER_AUTHORIZED',`${card.id}: career publication boundary`);
     assert(card.practice_prompt&&card.guardrail&&card.source_label,`${card.id}: missing personal-practice context`);
+    assert(card.answer_guide&&card.answer_guide.id===card.id&&['supported_opening','example_to_supply','follow_up_response'].every(key=>typeof card.answer_guide[key]==='string'&&card.answer_guide[key].length>=80),`${card.id}: bounded answer guide missing`);
     assert(Array.isArray(card.facts)&&card.facts.length>0,`${card.id}: no supported facts`);
     for(const fact of card.facts??[]) {
       assert(fact.class==='candidate_fact',`${fact.id}: personal fact misclassified`);

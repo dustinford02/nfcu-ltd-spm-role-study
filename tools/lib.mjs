@@ -39,15 +39,26 @@ export function compile(root=ROOT) {
   const t=json(root,'content/map/topics.json');
   const d=json(root,'content/drills/index.json');
   const c=json(root,'content/career/cards.json');
+  const guides=json(root,'content/answers/guides.json');
+  const roleGuides=new Map(guides.role.map(guide=>[guide.id,guide]));
+  const careerGuides=new Map(guides.career.map(guide=>[guide.id,guide]));
   const drills=(Array.isArray(d)?d:d.drills).map(drill=>{
     const file=drill.file.startsWith('content/')?drill.file:`content/drills/${drill.file}`;
     const document=documents.find(x=>x.path===file);
     if(!document) throw new Error(`Drill ${drill.id}: missing ${file}`);
-    return {...drill,class:'prep_drill',body:document.body,source_path:file};
+    const guide=roleGuides.get(drill.id);
+    const answer=guide?{
+      id:`answer-${drill.id}`,class:'inference',title:'Worked study response',
+      text:guide.response,source_url:null,
+      source_note:'Editorial answer guide. Posting facts remain attributed to the cited excerpts; general methods and hypothetical choices are not employer policy.',
+      retrieved_date:'2026-09-27',locator:`Answer guide for ${drill.id}`,
+      inferred_from:drill.motivating_excerpts.map(excerpt=>excerpt.id).join(', ')
+    }:undefined;
+    return {...drill,class:'prep_drill',body:document.body,source_path:file,...(answer?{answer}:{})};
   });
   return {version:1,source_digest:sha(JSON.stringify(source_manifest)),source_manifest,
     meta:json(root,'content/posting/meta.json'),documents,topics:Array.isArray(t)?t:t.topics,drills,
-    career:c.cards,career_sources:c.sources};
+    career:c.cards.map(card=>({...card,...(careerGuides.has(card.id)?{answer_guide:careerGuides.get(card.id)}:{})})),career_sources:c.sources};
 }
 export const serialize = data => JSON.stringify(data,null,2)+'\n';
 

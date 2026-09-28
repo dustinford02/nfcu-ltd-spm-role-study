@@ -17,6 +17,7 @@ Ten career cards retain source type, period, attribution limits, and a practice 
 - Start with the next three-minute drill, then open a topic or practice a career example.
 - **Show posting only** restricts study content to retrieved posting material; analysis and personal practice remain available when switched off.
 - Use the 3 / 10 / 25-minute timer. Rehearse aloud or silently; this release does not record audio or generate AI scores.
+- Open any role drill and choose **Show the model answer** after attempting it. Every one of the 24 drills now contains a worked response with its source boundary; it does more than repeat the posting. Career sessions include **Show your answer guide**, with a supported opening, the specific real example still needed, and a suggested response to the follow-up. The guide never invents a personal achievement.
 - After one successful online visit, the service worker offers cached practice. Installation depends on the browser's usual install or Add to Home Screen control.
 - Progress is stored in this browser. Export and import a progress file to move it between devices. There is no automatic cloud sync, account, or shared progress database.
 - Browser storage can be cleared or evicted. Export progress periodically. No analytics, external fonts, paid APIs, or AI subscription are required.
@@ -53,6 +54,8 @@ node tools/serve.mjs
 Open `http://127.0.0.1:8766/nfcu-ltd-spm-role-study/`. Use HTTP rather than a local file URL for offline acceptance. The server listens only on loopback. Stop it with Ctrl+C.
 
 `content/` and `schema/` are the source of truth. The build deterministically creates `app/data/content.json` and `content.sha256`, including source-file hashes. Do not edit generated files. The validator checks schema/provenance rules, captured text, exact rebuild equality, hashes, topic/drill links, required unknowns, candidate boundaries, and private-path/credential patterns. It cannot authenticate an issuer or prove every statement true; source review remains necessary.
+
+`content/answers/guides.json` is the editable answer source. Compilation attaches its 24 editorial model responses and 10 bounded career answer guides to the matching drills/cards. The validator requires complete coverage and preserves the distinction between a posting quote, general practice, and a candidate statement.
 
 `content/gaps/validation-log.md` is a derived validation transcript and is deliberately excluded from the content digest to prevent a self-referential hash. Its frontmatter is still validated. Other source documents, including the self-pass, are part of the build.
 

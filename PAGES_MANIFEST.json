@@ -4,15 +4,15 @@
   "files": [
     {
       "path": "app.js",
-      "sha256": "16e57cbe4421491feb5f0faa38143d8ff81bf56f4ea6930ba4b1eff365ca67cb"
+      "sha256": "aa06ff2b2773cb37738cf5136551ee2ed4f623091b3885a345a2bff84ac00ca2"
     },
     {
       "path": "data/content.json",
-      "sha256": "cc155b9b9894e0c1203f0f1ba3784b23e44c2dd6dc4e31095aa5674bc40eae9c"
+      "sha256": "57cc13de705085cf691fa41f7b02cff5095a780bb43ba37acb2d53f4058cbf50"
     },
     {
       "path": "data/content.sha256",
-      "sha256": "ff747b76fb9ddf15dcb23d78f91c8c16a8889ed75a87569d5c01aad8ab22f4bf"
+      "sha256": "9dea59faf0afc8faa828e0cc90120708418313509d36583b5338a1a6ea9abbd5"
     },
     {
       "path": "icon.svg",
@@ -28,11 +28,11 @@
     },
     {
       "path": "service-worker.js",
-      "sha256": "1c1bd7db45480dd3f0ae4d488c93f5faa27c94af8f5459ba9390f1481f2a754e"
+      "sha256": "704885813287300c59a8c014e16b22d2be1cb3686e430ef50e1926a1e612aee4"
     },
     {
       "path": "styles.css",
-      "sha256": "76a8119d6926d4775c1d751075a565bd142aef923a306e2b024afba342a7d760"
+      "sha256": "d8aabf7513f3ea2262f8843e2d86e4383f6b94308e58e7edf05a651de498e69f"
     }
   ]
 }

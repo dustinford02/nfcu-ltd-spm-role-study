@@ -16,6 +16,8 @@ const tests=[
   ['generated hash changed',r=>write(r,'app/data/content.sha256','0'.repeat(64)),/SHA-256 mismatch/,false],
   ['required tension topic removed',r=>changeJson(r,'content/map/topics.json',x=>{x.topics=x.topics.filter(t=>t.id!=='overview-vs-duties-tension');}),/required topic missing/,true],
   ['too few drills',r=>changeJson(r,'content/drills/index.json',x=>{x.drills=x.drills.slice(0,19);}),/drill count/,true],
+  ['missing role answer',r=>changeJson(r,'content/answers/guides.json',x=>{x.role=x.role.slice(1);}),/one answer guide per role drill|model answer missing|missing answer/,true],
+  ['missing career answer',r=>changeJson(r,'content/answers/guides.json',x=>{x.career=x.career.slice(1);}),/one answer guide per career card|bounded answer guide missing/,true],
   ['candidate source removed',r=>changeJson(r,'content/career/cards.json',x=>{x.sources=[];}),/source missing/,true],
   ['candidate evidence promoted',r=>changeJson(r,'content/career/cards.json',x=>{x.cards[0].facts[0].evidence_class='VERIFIED_EMPLOYER_RESULT';}),/unsupported evidence class/,true],
   ['unretrieved excerpt',r=>changeJson(r,'content/map/topics.json',x=>{x.topics[0].posting_excerpts[0].text='Invented internal leadership policy.';}),/not verbatim/,true]

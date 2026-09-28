@@ -113,7 +113,7 @@ function drillCard(drill){
   const card=link('',`#practice/${encodeURIComponent(drill.id)}`,'drill-card');
   const minutes=append(node('span',String(drill.timebox||3),'minutes'),node('small','MIN'));
   const done=Boolean(progress.completed[drill.id]);
-  append(card,minutes,append(node('div',null,'drill-info'),node('h3',drill.title),node('p',`${String(drill.type||'Practice').replaceAll('-',' ')}${done?' · Practiced':''}`)),node('span',done?'✓':'↗','done-mark'));
+  append(card,minutes,append(node('div',null,'drill-info'),node('h3',drill.title),node('p',`${String(drill.type||'Practice').replaceAll('-',' ')} · Model answer included${done?' · Practiced':''}`)),node('span',done?'✓':'↗','done-mark'));
   return card;
 }
 function drillDisplayBody(drill){
@@ -180,9 +180,9 @@ function renderPractice(id){
   append(main,link('← All practice','#practice','back-link'),intro('PRACTICE SESSION',drill.title),node('div','This is not an official interview question.','notice'));
   const layout=node('div',null,'study-layout');const content=node('div',null,'study-content');
   append(content,badge(drill.class||'prep_drill'),markdown(drillDisplayBody(drill)));
+  if(drill.answer){const details=node('details',null,'card document-card answer-guide');append(details,append(node('summary'),badge('inference'),node('h3','Show the model answer')),recordCard(drill.answer));content.append(details);}
   const excerpts=drill.motivating_excerpts||[];
   if(excerpts.length){const sources=node('details',null,'card document-card');append(sources,append(node('summary'),badge('posting'),node('h3','Why this is relevant')));excerpts.forEach(r=>sources.append(recordCard(r,{quote:true})));content.append(sources);}
-  if(drill.answer){const details=node('details',null,'card document-card');append(details,append(node('summary'),badge(drill.answer.class||'industry'),node('h3','Review a study response')),recordCard(drill.answer));content.append(details);}
   content.append(completionPanel(drill.id));append(layout,timerPanel(drill.id,drill.timebox||3),content);main.append(layout);
 }
 function renderCareer(id){
@@ -193,8 +193,10 @@ function renderCareer(id){
     append(main,link('← Career connections','#career','back-link'),intro('SPEAK IT THROUGH',selected.title),node('div','Practice prompts are not official interview questions. Keep every answer within the evidence and boundaries shown.','notice'));
     const layout=node('div',null,'study-layout');const content=node('div',null,'study-content');
     if(selected.practice_prompt)append(content,append(node('section',null,'quiet-panel'),badge('prep_drill'),node('h2','Your practice prompt'),markdown(textOf(selected.practice_prompt))));
-    content.append(careerCard(selected,false,false));
     if(selected.follow_up){content.append(sectionHeading('Go one level deeper'));const followUps=Array.isArray(selected.follow_up)?selected.follow_up:[selected.follow_up];followUps.forEach(followUp=>content.append(markdown(textOf(followUp))));}
+    if(selected.answer_guide){const guide=selected.answer_guide;const details=node('details',null,'card document-card answer-guide');append(details,append(node('summary'),badge('prep_drill'),node('h3','Show your answer guide')),node('p','The opening below is supported by the bounded facts on this card. Finish the story only with a real example you can defend.','microcopy'));
+      for(const [heading,response] of [['What you can say now',guide.supported_opening],['The example to add',guide.example_to_supply],['Answer to the follow-up',guide.follow_up_response]])append(details,node('h4',heading),markdown(response));content.append(details);}
+    content.append(careerCard(selected,false,false));
     content.append(completionPanel(`career:${selected.id}`));append(layout,timerPanel(`career:${selected.id}`,3),content);main.append(layout);return;
   }
   main.append(intro('EXPERIENCE, WITH ITS BOUNDARIES','Make your story defensible.','Connect relevant career material to the role. Evidence status stays visible, and a practice suggestion never becomes a fact about your experience.'));

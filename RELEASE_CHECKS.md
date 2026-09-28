@@ -37,3 +37,9 @@ The wider career repository's existing integrity check remains 88/89 because of 
 ## Known release limits
 
 Progress transfer is manual export/import, not cloud sync. There is no AI coaching, speech transcription, automatic source refresh, or interview-format prediction. Offline use requires one successful online visit and retained browser storage. Employer-specific philosophies, calibration rules, cycle ownership, system/role access, reporting structure, and interview format remain unanswered.
+
+## Answer edition — September 27, 2026
+
+The original release's practice prompts lacked answers. The answer edition adds `content/answers/guides.json` as the editable source for 24 worked role responses and 10 bounded career guides, each with a response to its follow-up. Role answers are editorial inference with lineage to motivating posting excerpts. The career guides state what the reviewed facts support and name the real example still required; they do not supply invented actions or results. `Show the model answer` appears before the posting excerpt on role drills, and `Show your answer guide` appears before the detailed career facts.
+
+The build remains deterministic: `app/data/content.json` SHA-256 is `57cc13de705085cf691fa41f7b02cff5095a780bb43ba37acb2d53f4058cbf50`; generated `/docs` bytes match the application. The current service-worker build identifier is `20260927-r5`. Validation passed for 9 topics, 24 drills, 10 career cards and 46 content files. All 14 rejection checks passed, including two new checks for missing role and career guides. The separate Career and Job History root validator still reports its unrelated historical `application_tracker` route failure (88/89), which this app does not alter.

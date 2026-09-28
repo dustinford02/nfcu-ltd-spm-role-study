@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "role": [
+    {
+      "id": "drill-01",
+      "response": "The overview names four programs: the full performance management cycle, performance calibration processes, the Talent Philosophy, and the Leadership Model. It says these programs support organizational effectiveness, leadership capability, and workforce performance. I would use **leadership capability** as one stated outcome. The posting names the philosophy and model but does not describe their contents."
+    },
+    {
+      "id": "drill-02",
+      "response": "A useful **reference model**, drawn from OPM's general performance-cycle guidance, is to plan expectations, monitor work and give feedback, develop capability, evaluate performance, and recognize results. Those stages connect rather than occur only at year end. For this employer, I would still need the actual calendar, rating rules, participants, and approval path before describing its cycle. [OPM reference](https://www.opm.gov/policy-data-oversight/performance-management/performance-management-cycle/)."
+    },
+    {
+      "id": "drill-03",
+      "response": "Performance calibration is a structured discussion of judgments and supporting evidence so reviewers can examine consistency across people or groups. It should make differences and their rationale visible; it does not inherently require forced ranking. Before describing Navy Federal's process, I would ask for **the rating/evidence rubric** and **who participates and holds final approval authority**. [Oracle general concept](https://docs.oracle.com/en/cloud/saas/human-resources/faiwc/calibrated-performance-ratings-in-a-workforce-compensation-plan.html)."
+    },
+    {
+      "id": "drill-04",
+      "response": "The role overview explicitly names the full performance management cycle and calibration processes. The duty list separately calls for integrated program plans, schedules, and resource allocations. I would prepare for both because the overview identifies the talent-program subject, while the duties describe how a senior program manager is expected to coordinate delivery. The two sections do not establish how this specific team divides HR policy ownership and program execution."
+    },
+    {
+      "id": "drill-05",
+      "response": "For a **hypothetical** rollout, I would make a single plan with a row per milestone: approved policy and content, tested data/access, completed manager guidance, communications release, launch, and support handoff. Each row would show a proposed owner to confirm, required input, due date to agree, evidence of readiness, and the dependent next task. If access testing slips, training and launch readiness turn amber; the plan names the decision owner and escalation threshold. The posting supports integrated planning and dependency management, but none of these dates or owners are confirmed employer facts."
+    },
+    {
+      "id": "drill-06",
+      "response": "**Illustrative senior update:** 'The agreed milestones are currently on schedule, but the launch decision is at risk because no one has confirmed who can approve the exception process. We have two options: settle the authority and criteria before manager guidance goes out, or release only the material that does not depend on that decision. I recommend the first option if approval can be secured by the date we agree today. Who is accountable for that approval, and when can the group decide? If it remains open, I will show the affected milestones and a revised forecast at the next review.' This is a decision-oriented template, not a report of an actual Navy Federal program."
+    },
+    {
+      "id": "drill-07",
+      "response": "'Access **might** arrive late' is a risk: assess likelihood and impact, assign a mitigation owner, and set a trigger. 'Access **is** overdue' is an issue: record the current blockage, owner, recovery action, and decision deadline. 'Training cannot begin until access works' is a dependency: show its predecessor and successor on the plan and estimate schedule effect. One overdue access item can also create a separate downstream risk; the records should link rather than contradict one another."
+    },
+    {
+      "id": "drill-08",
+      "response": "A **provisional** responsibility map could put HR as a candidate for policy/content decisions, technology for access and system changes, finance for funding input, operations for manager readiness, and the program manager for integrating plans, risks, and decision records. For each decision, mark a tentative Responsible party, one Accountable decision owner, Consulted experts, and Informed groups. The actual owners, sign-off rights, and escalation forum must be validated with the employer; the posting names collaboration with these functions but does not provide an org chart or RACI. [RACI reference](https://www.atlassian.com/work-management/project-management/raci-chart)."
+    },
+    {
+      "id": "drill-09",
+      "response": "I would compare three **hypothetical** options on the same assumptions: manager guidance may cost less and be quick to pilot but depends on use; reminder automation may improve timely action but requires access, integration, and support; reporting redesign may improve decisions but needs trusted definitions and data. For each, estimate total cost, expected behavior or benefit, adoption effort, implementation risk, and what would be lost by waiting. I would ask for baseline completion, error, and manager-feedback data, then recommend the smallest option with a measurable test if the evidence is thin. If a sensitivity check reverses the ranking, take that decision back to the sponsor. [PMI benefits reference](https://www.pmi.org/learning/thought-leadership/series/benefits-realization/benefits-realization-management-framework)."
+    },
+    {
+      "id": "drill-10",
+      "response": "For a **hypothetical** manager-support effort, an **output** is a tested check-in guide. An **outcome** is managers using the guide in timely, useful conversations with employees. A possible **benefit** is better development decisions or fewer avoidable review corrections. I would define the manager population and period, measure a baseline, sample actual use and quality, and compare outcomes with other possible causes. Publishing the guide proves delivery only; it does not prove the behavior or benefit. [PMI benefits reference](https://www.pmi.org/learning/thought-leadership/series/benefits-realization/benefits-realization-management-framework)."
+    },
+    {
+      "id": "drill-11",
+      "response": "An **illustrative early indicator** is managers who complete a quality-checked draft check-in by the agreed checkpoint divided by managers expected to do so. A **later outcome** is employees whose review contains a specific, evidence-supported development action divided by reviewed employees, measured after the cycle. HR would need to confirm data ownership, quality rules, and a weekly-versus-cycle reporting cadence. A rising draft count can hide poor content, and a better later score may reflect changes in population or rubric; audit samples and comparable cohorts would be cross-checks. These are proposed measures, not Navy Federal metrics."
+    },
+    {
+      "id": "drill-12",
+      "response": "'All managers completed training' establishes attendance or completion, **not** successful change. I would check whether managers understood the step, could perform it in a realistic exercise, used it during the live cycle, produced acceptable work, and sustained it. A proportionate evaluation might sample work products and manager/employee feedback against a predeclared rubric, compare with a baseline, and examine exceptions. If completion is high but actual use or quality is low, the change is not yet demonstrated; if those measures improve over a defined period, the conclusion becomes stronger, while attribution still needs care."
+    },
+    {
+      "id": "drill-13",
+      "response": "Three adoption questions are **speed** (how quickly people begin), **breadth** (how many of the intended people use the change), and **proficiency** (how well they use it). In a **hypothetical** launch, 100 managers might attend a briefing, but only 60 might use the new check-in by the target date and only 40 might meet a quality rubric. Attendance therefore cannot answer use or proficiency. The numbers are illustrative; this is an industry measurement lens, not a known Navy Federal framework. [Prosci measurement reference](https://www.prosci.com/blog/metrics-for-measuring-change-management)."
+    },
+    {
+      "id": "drill-14",
+      "response": "I would first ask whether managers knew the step existed, could access the system, had time and incentives to do it, understood the workflow, and had the required skill and support. I would look at help tickets, completion patterns, a few observed attempts, and manager feedback by group. If access fails, fix access; if the step is unclear, simplify the workflow; if capability is the barrier, use targeted practice and reinforcement. Another course is justified only after evidence shows a learning need. These are diagnostic hypotheses for the scenario, not asserted employer problems."
+    },
+    {
+      "id": "drill-15",
+      "response": "**Illustrative coaching exchange:** 'What changed, who is affected, and what evidence makes this urgent? What decision can you make within your authority, and what threshold would require escalation? Name one action you will take now and the next checkpoint.' I would agree on criteria such as material schedule or control impact, ask the lead to choose and document the next action, then review the result together. That builds judgment while preserving a route for real emergencies; it is not a claim about an actual employee."
+    },
+    {
+      "id": "drill-16",
+      "response": "The **required-qualification** analytics examples are Power BI, Tableau, and Smartsheet. The **desired** tool familiarity examples are Smartsheet, MS Project, and Jira, alongside MS Office proficiency. Oracle Fusion Cloud Talent Management appears in a separate Oracle customer story about Navy Federal; it is **not named in this requisition's tool list**. A vendor association does not establish that this role administers Oracle or that the candidate has used it. [Oracle customer story](https://www.oracle.com/customers/navy-federal-credit-union/)."
+    },
+    {
+      "id": "drill-17",
+      "response": "I would use a **hybrid proposal** for the scenario. Work backward from the fixed cycle date to sequence policy decisions, access testing, data validation, communications approval, and launch gates. Iterate on uncertain reporting definitions with short demonstrations and user feedback before locking the required output. Keep one integrated plan and change log so iteration cannot silently move the fixed gate. The posting lists Agile, SAFe, and Waterfall as methodology examples and asks the leader to adapt delivery; it does not say Navy Federal uses one method for this team."
+    },
+    {
+      "id": "drill-18",
+      "response": "**Experience requirements:** 5+ years of relevant cross-functional program management and 2+ years leading multi-phase, cross-functional programs. **Knowledge and skill expectations:** advanced program-methodology knowledge, budgeting/resource/risk skill, stakeholder governance, change management, analytics and reporting. **Education in Qualifications:** a bachelor's in a named or related field **or an equivalent combination of training, education, and experience**. **Desired:** a master's or equivalent combination, professional certifications such as PMP/PgMP/Lean-Agile, and preferred familiarity with Smartsheet, MS Project, or Jira. The structured Job Info field says 'No Formal Education' while the prose specifies a degree-or-equivalency pathway; flag that mismatch for clarification rather than deleting either source statement."
+    },
+    {
+      "id": "drill-19",
+      "response": "Oracle's customer story reports that Navy Federal uses Oracle Fusion Cloud Talent Management for goals, check-ins, and development and gives vendor-reported usage measures. It is useful public context for asking intelligent questions. It does **not** establish that requisition 32372 owns that system, that its manager or team implemented the reported work, or that the selected candidate will have administrative privileges. It also does not explain the internal Talent Philosophy or Leadership Model. [Oracle customer story](https://www.oracle.com/customers/navy-federal-credit-union/)."
+    },
+    {
+      "id": "drill-20",
+      "response": "Oracle reports 58% growth in average performance goals per employee, growth from 25,000 to 29,000 employees with goals, and 125% growth in workers with development goals. These are **vendor-reported activity and coverage measures**. To infer better workforce performance, I would need the measurement period and denominator, data quality and goal-quality rubric, employee/manager behavior over time, a baseline and meaningful comparison, and downstream outcomes such as development progress or performance quality. I would also examine other changes that could explain the shift. More goal records alone do not prove better performance. [Oracle customer story](https://www.oracle.com/customers/navy-federal-credit-union/)."
+    },
+    {
+      "id": "drill-21",
+      "response": "**One defensible ranking:** (1) Does this role own the talent-program process, coordinate delivery, or both? Ask the hiring manager and approved role charter. (2) Who approves calibration rules and exceptions? Ask the HR process owner and current governance document. (3) What do the Talent Philosophy and Leadership Model actually say? Ask for the current employer-owned documents or an authorized summary. (4) Which system is the record of truth and what access does the role have? Ask the HRIS owner and a system inventory. (5) What are the next cycle's milestones and success measures? Ask the program sponsor for the approved calendar and scorecard. The order is a study judgment; none of these answers is established in the public source set."
+    },
+    {
+      "id": "drill-22",
+      "response": "For a **hypothetical readiness review**, I would use a seven-gate table: policy signed by an authorized owner; access tested by intended user types; data reconciled and exceptions logged; communications approved for the intended groups; managers able to perform a short task; support capacity and routing confirmed; exceptions assigned with deadlines. Each gate needs an evidence link, a proposed owner to confirm, a status, and a decision. An incomplete critical gate triggers a documented hold or a narrowed launch decision by the actual authority; noncritical gaps receive a tracked mitigation and date. This is a proposed control design, not Navy Federal's actual launch checklist."
+    },
+    {
+      "id": "drill-23",
+      "response": "I would propose a **discovery workshop**, not assume a current defect. Ahead of it, request the approved program inventory, annual calendar, stakeholder map, governance decisions, current measures, open risks, and relevant policies. Agenda: confirm purpose and scope; map each program's users, outcomes, and handoffs; surface evidence and unresolved choices; rank dependencies; agree who will validate the map. Decision questions include who owns policy versus delivery, what changes this cycle, what success looks like, and which decisions need escalation. Outputs are a validated scope draft, decision log, dependency map, prioritized questions, and an owner/date for each follow-up."
+    },
+    {
+      "id": "drill-24",
+      "response": "**Purpose (official Job Description):** lead enterprise talent and performance programs, including the performance cycle, calibration, Talent Philosophy, and Leadership Model. **Delivery (official Responsibilities):** build integrated plans, manage dependencies and governance, report to senior stakeholders, contribute to business cases, support change readiness, and mentor leads. **Qualifications (official Qualifications):** 5+ years of relevant program work, 2+ years leading multi-phase work, and advanced methods, analytics, budgeting, and change skill; the degree prose includes an equivalency option. **Unknowns (public-source gap):** role/process ownership, internal philosophy/model text, calibration authority, system access, and interview format. Oracle's customer story and neighboring roles provide context only, not additional requirements for this requisition."
+    }
+  ],
+  "career": [
+    {
+      "id": "career-01",
+      "supported_opening": "A supportable opening is that you managed up to 24 GovCIO direct reports. You can also mention, as a separate team cohort, that four people earned the specified degrees or PMP credential. Both are dated user statements, not independently verified employer outcomes.",
+      "example_to_supply": "Choose one real person or situation. Add the development need, what you personally did, what the employee did, and one observable change with a period and source you can defend. Do not claim your coaching caused the credentials solely because they were earned on your team.",
+      "follow_up_response": "Attribute the support actions you actually performed to yourself. Attribute the study, examination, and credential to the employees. If you cannot document a causal effect, say that your role was to support their development while they achieved the credential."
+    },
+    {
+      "id": "career-02",
+      "supported_opening": "A supportable opening is that, as a Navy Chief at NATTC, you were responsible for mentoring approximately 52 Sailors. That number is a mentorship population, not a direct-report count or an achieved result.",
+      "example_to_supply": "Recall a specific qualification or career-development conversation. Add the Sailor's goal, your guidance, the action the Sailor took, and the observed outcome if you can support it. If no outcome is documented, describe the action and stop there.",
+      "follow_up_response": "Use only the outcome of the chosen conversation. Do not attach unrelated command-wide totals or imply that all 52 Sailors reached the same result."
+    },
+    {
+      "id": "career-03",
+      "supported_opening": "The bounded fact available now is personal curriculum work across 3–5 Information Systems Technician courses, recorded as a user statement. It does not identify a specific defect, your exact disposition, or a measured result.",
+      "example_to_supply": "Choose one real discrepancy or review handoff. State the requirement and source you checked, the finding, your own analysis or recommendation, the next owner's action, and the accepted disposition if known. Keep team-period totals out unless you can trace personal attribution.",
+      "follow_up_response": "Point to a review comment, handoff, or accepted change that establishes your step. Distinguish it from what the curriculum team or government reviewers decided later."
+    },
+    {
+      "id": "career-04",
+      "supported_opening": "The certificate copy records your PMP award on August 21, 2024, with a printed expiration of August 21, 2027. That is a credential record; the app has not checked live registry standing or inferred program results from it.",
+      "example_to_supply": "Select a real program decision rather than describing the exam. Explain competing options, schedule/resource/risk evidence, affected stakeholders, your actual recommendation or decision right, and the outcome you can substantiate.",
+      "follow_up_response": "Name the specific decision you made or influenced in work, the artifact or witness that supports it, and where final authority belonged. The PMP alone does not establish that decision."
+    },
+    {
+      "id": "career-05",
+      "supported_opening": "Your UWF credential copy supports an MBA with a Human Resources Management Emphasis conferred May 4, 2024. It supports education, not ownership of an employer performance cycle.",
+      "example_to_supply": "Pick an HR concept you actually studied and explain it accurately. Then say, explicitly as a **proposal**, how you would test that concept in a hypothetical performance-cycle problem and what evidence you would collect before recommending it.",
+      "follow_up_response": "Ask for the employer's actual policy, cycle calendar, rating/evidence rubric, decision rights, user groups, and current measures. Adapt the idea only after those facts are known."
+    },
+    {
+      "id": "career-06",
+      "supported_opening": "A NATTC record supports your historical Master Training Specialist designation. It is a training foundation, not proof of a specific civilian manager-enablement result.",
+      "example_to_supply": "Choose one actual instructional judgment you made: the learner problem, evidence used, change you chose, and observed result if verified. Then label any application to manager enablement as a proposed transfer, not past implementation.",
+      "follow_up_response": "In a proposed program, check observed manager behavior or work products after training against a baseline and rubric. Attendance or satisfaction alone would not demonstrate transfer."
+    },
+    {
+      "id": "career-07",
+      "supported_opening": "The ISPI certificate copy establishes completion of the AI4PI Journey on March 31, 2026. It does not establish assessed AI engineering skill or an implemented workplace AI system.",
+      "example_to_supply": "Name one concept you actually learned and explain it in your own words. Propose a small, low-risk evaluation of an AI-supported learning task, with human review of outputs and a comparison against the current process. Mark the pilot and result as future proposals.",
+      "follow_up_response": "Require an approved data-use boundary, no unnecessary personal information, a quality rubric, human review, baseline time/error measures, and a defined sample and period before claiming an improvement."
+    },
+    {
+      "id": "career-08",
+      "supported_opening": "The August 2026 unofficial transcript supports 36 doctoral credits earned through Summer 2026 in Instructional and Performance Technology, with later coursework listed in progress. It shows no awarded doctorate.",
+      "example_to_supply": "Frame a researchable question such as: 'Why are managers missing a required step?' Treat skill, workflow, access, incentive, and workload as competing explanations. Propose observation, system data, and interviews to distinguish them. If you have used this method at work, add only a separately supported example.",
+      "follow_up_response": "Say which diagnostic ideas come from your academic study. Name a workplace action or result only if you can trace it to your own documented or attested experience; do not convert coursework into job outcomes."
+    },
+    {
+      "id": "career-09",
+      "supported_opening": "The dated user correction identifies Operating BEAT as your personal concept, not GovCIO property, and states it has never been actualized or piloted. Ownership here is user testimony, not legal proof.",
+      "example_to_supply": "If asked, describe the problem the concept is intended to examine and the design hypothesis at a high level. Propose what a future, authorized test would measure and who would approve it. Do not present a deployment, pilot, adoption, savings, or realized result.",
+      "follow_up_response": "A claim that it worked would require an approved real-world test, a defined baseline and population, observed outcomes over a period, and an attribution analysis. None is established here."
+    },
+    {
+      "id": "career-10",
+      "supported_opening": "Your dated tools list names platforms across planning, reporting, instruction, documents, AI, and collaboration. Inclusion records familiarity asserted by you; it does not measure skill depth, current access, or subscription status.",
+      "example_to_supply": "Select one tool you can demonstrate. Name one task you personally performed, the artifact you created, and the decision or handoff it supported. Show or describe the artifact at the level permitted by your employer's disclosure rules; do not substitute a list of product names for a work example.",
+      "follow_up_response": "Separate tools you can demonstrate now from tools needing refresher practice, account access, or a connector check. State any gap directly rather than implying current expertise or paid access."
+    }
+  ]
+}

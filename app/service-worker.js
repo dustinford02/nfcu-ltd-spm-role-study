@@ -1,6 +1,6 @@
 'use strict';
 // Bump APP_BUILD when publishing an app or content change. Each cache is a coherent snapshot.
-const APP_BUILD = '20260927-r3';
+const APP_BUILD = '20260927-r5';
 const CACHE_NAME = `role-studio-${APP_BUILD}`;
 const SCOPE = new URL('./', self.location.href);
 const SHELL = ['./', './index.html', './styles.css', './app.js', './manifest.json', './icon.svg'];
